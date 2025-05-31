@@ -41,10 +41,13 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* Force larger profile image in sidebar */
 .sidebar .author__avatar {
-  width: 400px;
-  height: 400px;
+  width: 240px !important;
+  height: 240px !important;
   border-radius: 50%;
-  margin-bottom: 10px;
+  display: block;
+  margin: 0 auto 10px auto;
+  object-fit: cover;
 }
 
