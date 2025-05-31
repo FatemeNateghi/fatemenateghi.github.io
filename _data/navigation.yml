@@ -9,24 +9,15 @@
 
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
-  - title: "Experience"
-    url: /talks/  
-
-    
   - title: "Talk"
     url: /talks/    
 
   - title: "Education"
-    url: /teaching/    
-
+    url: /education/    
 
   - title: "CV"
     url: /cv/
+
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
