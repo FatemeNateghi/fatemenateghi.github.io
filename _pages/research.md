@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 
-You can also find my full list of articles on
+You can also find my full list of papers on
 <a href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ---
