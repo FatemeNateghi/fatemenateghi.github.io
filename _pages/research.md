@@ -55,4 +55,20 @@ author_profile: true
 
 <hr>
 
+<table><tr>
+<td width="30%">
+  <img src="/images/deconver_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    Deconver: A Deconvolutional Network for Medical Image Segmentation
+  </strong><br>
+  P. Ashtari, S. Noei, <strong>Fateme Nateghi</strong>, J.H. Chen, G. Jurman, A. Pizurica<br>
+  <em>arXiv preprint, 2025</em><br>
+  <a href="https://arxiv.org/pdf/2504.00302">[arXiv]</a>
+  <a href="https://github.com/pashtari/deconver?tab=readme-ov-file">[GitHub]</a>
+</td>
+</tr></table>
+
+<hr>
 
