@@ -30,7 +30,7 @@ author_profile: true
   <strong>Clinical Entity-Augmented Retrieval for Clinical Information Extraction (CLEAR)</strong><br>
   I. Lopez, A. Swaminathan, K. Vedula, S. Narayanan, <strong>Fateme Nateghi</strong><br>
   <em>npj Digital Medicine, 2024</em><br>
-  <a href="https://www.nature.com/articles/s41746-024-01377-1">[Paper]</a>
+  <a href="https://www.nature.com/articles/s41746-024-01377-1">[Paper]</a> /
   <a href="https://github.com/iv-lop/clear">[GitHub]</a>
 </td>
 </tr></table>
