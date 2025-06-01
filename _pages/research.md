@@ -39,3 +39,20 @@ author_profile: true
 
 <hr>
 
+<table><tr>
+<td width="30%">
+  <img src="/images/diversity_sampling_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    Embedding-Driven Diversity Sampling to Improve Few-Shot Synthetic Data Generation
+  </strong><br>
+  I. Lopez, <strong>Fateme Nateghi</strong>, K. Caoili, J.H. Chen, A. Chaudhari<br>
+  <em>arXiv preprint, 2025</em><br>
+  <a href="https://arxiv.org/abs/2501.11199">[arXiv]</a>
+</td>
+</tr></table>
+
+<hr>
+
+
