@@ -1,5 +1,5 @@
 ---
-title: "You can also find my articles on <a href="{https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en}"
+title: "Research"
 permalink: /research/
 layout: single
 author_profile: true
