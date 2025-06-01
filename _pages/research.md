@@ -105,5 +105,21 @@ author_profile: true
 
 <hr>
 
+<table><tr>
+<td width="30%">
+  <img src="/images/fuzzy_partitioning_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    Supervised Fuzzy Partitioning
+  </strong><br>
+  P. Ashtari, <strong>Fateme Nateghi</strong>, H. Beigy<br>
+  <em>Pattern Recognition, 2020</em><br>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320319303164">[Paper]</a>
+</td>
+</tr></table>
+
+<hr>
+
 
 
