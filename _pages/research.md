@@ -33,7 +33,7 @@ author_profile: true
   I. Lopez, A. Swaminathan, K. Vedula, S. Narayanan, <strong>Fateme Nateghi</strong><br>
   <em>npj Digital Medicine, 2024</em><br>
   <a href="https://www.nature.com/articles/s41746-024-01377-1">[Paper]</a> /
-  <a href="https://github.com/iv-lop/clear">[GitHub]</a>
+  <a href="https://github.com/FatemeNateghi/clear">[GitHub]</a>
 </td>
 </tr></table>
 
@@ -65,10 +65,28 @@ author_profile: true
   </strong><br>
   P. Ashtari, S. Noei, <strong>Fateme Nateghi</strong>, J.H. Chen, G. Jurman, A. Pizurica<br>
   <em>arXiv preprint, 2025</em><br>
-  <a href="https://arxiv.org/pdf/2504.00302">[arXiv]</a>
-  <a href="https://github.com/pashtari/deconver?tab=readme-ov-file">[GitHub]</a>
+  <a href="https://arxiv.org/pdf/2504.00302">[arXiv]</a> /
+  <a href="https://github.com/FatemeNateghi/deconver">[GitHub]</a>
 </td>
 </tr></table>
 
 <hr>
+
+<table><tr>
+<td width="30%">
+  <img src="/images/imf_compression_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    Quantization-Free Lossy Image Compression Using Integer Matrix Factorization
+  </strong><br>
+  P. Ashtari, P. Behmandpoor, <strong>Fateme Nateghi</strong>, J.H. Chen, P. Patrinos<br>
+  <em>arXiv preprint, 2024</em><br>
+  <a href="https://arxiv.org/abs/2408.12691">[arXiv]</a> / 
+  <a href="https://github.com/FatemeNateghi/lrf">[GitHub]</a>
+</td>
+</tr></table>
+
+<hr>
+
 
