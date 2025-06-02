@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2024-11-11-AMIA-antibiotic
 venue: "AMIA 2024 Annual Symposium"
 location: "San Francisco, CA, USA"
-date: 2024-11-11
+date: 2024-11-11T10:00:01
 ---
 
 🔗 [Conference Website](https://amia.secure-platform.com/symposium/gallery/rounds/82001/details/11818)  
