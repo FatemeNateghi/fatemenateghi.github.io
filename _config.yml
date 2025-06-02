@@ -32,7 +32,7 @@ author:
   email            : "fnateghi@stanford.edu" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en"
+  googlescholar    : https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en
 
 
   # Repositories and software development
