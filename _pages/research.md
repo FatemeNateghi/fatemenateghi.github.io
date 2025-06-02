@@ -52,7 +52,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Clinical Entity-Augmented Retrieval for Clinical Information Extraction (CLEAR)</strong><br>
   I. Lopez, A. Swaminathan, K. Vedula, S. Narayanan, <strong>Fateme Nateghi</strong><br>
-  <em>npj Digital Medicine, 2024</em><br>
+  <em>npj Digital Medicine, 2025</em><br>
   <a href="https://www.nature.com/articles/s41746-024-01377-1">[Paper]</a> /
   <a href="https://github.com/FatemeNateghi/clear">[GitHub]</a>
 </td>
