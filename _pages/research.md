@@ -28,7 +28,21 @@ You can also find my full list of papers on
 
 <hr>
 
+<table><tr>
+<td width="30%">
+  <img src="/images/semi_supervised_survival_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    Predicting Survival Outcomes in the Presence of Unlabeled Data
+  </strong><br>
+  <strong>Fateme Nateghi</strong>, Celine Vens<br>
+  <em>Machine Learning, 2022</em><br>
+  <a href="https://link.springer.com/article/10.1007/s10994-022-06257-x">[Paper]</a>
+</td>
+</tr></table>
 
+<hr>
 
 <table><tr>
 <td width="30%">
@@ -62,21 +76,6 @@ You can also find my full list of papers on
 
 <hr>
 
-<table><tr>
-<td width="30%">
-  <img src="/images/semi_supervised_survival_fig.png" width="100%" style="border-radius: 8px;">
-</td>
-<td style="padding-left: 20px;">
-  <strong style="color:#1a3e5f; font-size: 20px;">
-    Predicting Survival Outcomes in the Presence of Unlabeled Data
-  </strong><br>
-  <strong>Fateme Nateghi</strong>, Celine Vens<br>
-  <em>Machine Learning, 2022</em><br>
-  <a href="https://link.springer.com/article/10.1007/s10994-022-06257-x">[Paper]</a>
-</td>
-</tr></table>
-
-<hr>
 
 <table><tr>
 <td width="30%">
