@@ -14,13 +14,16 @@ main:
   - title: "Talk"
     url: /talks/    
     
-  - title: "Grants"
-    url: /grants/
+  - title: "Grants & Institutional Contributions"
+    url: /initiatives/
 
   - title: "Education"
     url: /education/    
 
   - title: "CV"
     url: /cv/
+    
+  - title: "Beyond Research"
+    url: /beyond/
 
     
