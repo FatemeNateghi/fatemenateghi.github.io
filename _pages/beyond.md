@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Outside the lab, I love exploring the intersection of creativity and wellness. Whether it's experimenting with large language models in fun ways — like rewriting academic abstracts as poems — or designing polished visuals for my projects, I find joy in blending science with art. 
+Outside the lab, I love exploring the intersection of creativity and wellness. Whether it's experimenting with large language models in fun ways, like rewriting academic abstracts as poems, or designing polished visuals for my projects, I find joy in blending science with art. 
 
 Staying active is also central to my life. I play volleyball regularly, enjoy long walks and biking, and stick to a strength training routine paired with protein-rich meals (plus the occasional tahdig hack 🍳). 
 
