@@ -10,6 +10,37 @@ You can also find my full list of papers on
 <a href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ---
+<table><tr>
+<td width="30%">
+  <img src="/images/sage_demo_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    SAGE – Specialist AI for Guiding Experts
+  </strong><br>
+  <strong>Fateme Nateghi</strong>, Jonathan H. Chen, et al.<br>
+  <em>Ongoing Project</em><br>
+  <a href="https://assist-pc-frontend-1.onrender.com/" target="_blank">[Live Demo]</a>
+</td>
+</tr></table>
+
+<p style="margin-top:10px;">
+SAGE is a specialist-trained AI system designed to assist healthcare professionals in complex medical decision-making. It enhances electronic consultations (eConsults) by:
+</p>
+
+<ul>
+  <li>Retrieving similar patient cases from electronic health records (EHR)</li>
+  <li>Recommending clinical actions (e.g., labs, medications, referrals) based on real-world data</li>
+  <li>Using Large Language Models (LLMs) to pre-fill structured specialty-specific templates</li>
+  <li>Supporting retrieval-augmented generation (RAG) to ground responses in clinical context</li>
+</ul>
+
+<p>The goal of SAGE is to scale access to specialty care, reduce delays, and promote guideline-aligned decision-making directly at the point of care.</p>
+
+<hr>
+
+
+
 
 <table><tr>
 <td width="30%">
