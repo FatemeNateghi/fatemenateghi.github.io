@@ -5,11 +5,6 @@ layout: single
 author_profile: true
 ---
 
-
-## 🧬 Stanford Bio-X 2024 Seed Grant Recipient
-
----
-
 ## 🧬 Stanford Bio-X 2024 Interdisciplinary Seed Grant Recipient
 
 I am the **Lead Postdoctoral Researcher and Primary Author** on the awarded project:
