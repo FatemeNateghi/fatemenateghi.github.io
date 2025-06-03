@@ -10,7 +10,7 @@ author_profile: true
 KU Leuven, Belgium  
 - Developed machine learning models for survival prediction in ICU patients
 - Focused on semi-supervised learning for time-to-event outcomes  
-- Supervised by Prof. Dr. Celine Vens, and Prof. Dr. Hans Pottel
+- Supervised by Prof. Dr. Celine Vens and Prof. Dr. Hans Pottel
 
 ---
 
