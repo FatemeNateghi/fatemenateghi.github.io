@@ -7,7 +7,7 @@ author_profile: true
 
 ## 🧬 Stanford Bio-X 2024 Interdisciplinary Seed Grant Recipient
 
-I am the **Lead Postdoctoral Researcher and Primary Author** on the awarded project:
+I am the lead Postdoctoral Researcher and primary author on the awarded project:
 
 **Enhancing Specialty Care with Digital Medical Consultations: A Retrieval-Augmented Language Model Approach**
 
@@ -39,7 +39,7 @@ The AI Index Report is aimed at policymakers, researchers, and the public, and m
 ---
 ## 🧠 Session Organizer — PSB 2025 & 2026
 
-I co-organize the session **[AI in Healthcare: Explainability, Trustworthiness, and Transparency on the Web](https://psb.stanford.edu/callfor/papers/ai.html)** at the [Pacific Symposium on Biocomputing (PSB)](https://psb.stanford.edu/), a leading venue for interdisciplinary work at the intersection of biology, medicine, and computation.
+I co-organize the session **[AI and Machine Learning in Clinical Medicine](https://psb.stanford.edu/callfor/papers/ai.html)** at the [Pacific Symposium on Biocomputing (PSB)](https://psb.stanford.edu/), a leading venue for interdisciplinary work at the intersection of biology, medicine, and computation.
 
 This session focuses on the growing deployment of AI systems in clinical care and the increasing need for **interpretable, reliable, and fair** systems. Topics include:
 - Explainability techniques for clinical ML/AI
@@ -53,7 +53,7 @@ Our goal is to foster a rigorous scientific community that addresses the practic
 
 ## 📊 Program Chair — ECML PKDD 2024
 
-I served on the **Program Committee** for the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)](https://ecmlpkdd.org/2024/) 2024 Research Track.
+I served on the Program Committee for the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)](https://ecmlpkdd.org/2024/) 2024 Research Track.
 
 As part of the PC, I reviewed submissions and contributed to maintaining the scientific rigor of one of Europe's most prestigious machine learning conferences.
   
