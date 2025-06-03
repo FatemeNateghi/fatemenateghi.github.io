@@ -4,7 +4,7 @@ permalink: /initiatives/
 layout: single
 author_profile: true
 ---
-<div style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 10px; margin-bottom: 30px; background-color: #fafafa;">
+
 ## 🧬 Stanford Bio-X 2024 Interdisciplinary Seed Grant Recipient
 
 I am the lead Postdoctoral Researcher and primary author on the awarded project:
@@ -23,9 +23,8 @@ This interdisciplinary project leverages retrieval-augmented generation (RAG) an
 - Improve access to specialty care
 - Scale equitable, data-driven decision support across health systems
 
-</div>
+---
 
-<div style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 10px; margin-bottom: 30px; background-color: #fafafa;">
 
 ## 🌐 Stanford HAI AI Index 2025 Contributor
 
@@ -38,9 +37,8 @@ I specifically contributed to **Chapter 5: Science and Medicine**, which explore
 
 The AI Index Report is aimed at policymakers, researchers, and the public, and my role has included drafting content, identifying quantitative sources, and ensuring clarity in communication.
 
-</div>
+---
 
-<div style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 10px; margin-bottom: 30px; background-color: #fafafa;">
   
 ## 🧠 Session Organizer — PSB 2025 & 2026
 
@@ -54,9 +52,8 @@ This session focuses on the growing deployment of AI systems in clinical care an
 
 Our goal is to foster a rigorous scientific community that addresses the practical and ethical challenges of deploying AI in healthcare. 
 
-</div>
+---
 
-<div style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 10px; margin-bottom: 30px; background-color: #fafafa;">
 
 ## 📊 Program Chair — ECML PKDD 2024
 
