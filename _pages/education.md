@@ -1,14 +1,13 @@
 ---
-title: "Education"
+title: "Academic Background"
 permalink: /education/
 layout: single
 author_profile: true
 ---
 
-## 🎓 Academic Background
 
 ### PhD in Biomedical Sciences  
-**KU Leuven**, Belgium  
+KU Leuven, Belgium  
 - Developed machine learning models for survival prediction in ICU patients
 - Focused on semi-supervised learning for time-to-event outcomes  
 - Supervised by Prof. Dr. Hans Pottel and Prof. Dr. Pierre Delanaye
@@ -16,12 +15,12 @@ author_profile: true
 ---
 
 ### MSc in Biomedical Engineering (Bioinformatics)  
-**Amirkabir University of Technology (Tehran Polytechnic)**, Iran  
+Amirkabir University of Technology (Tehran Polytechnic), Iran  
 
 ---
 
 ### BSc in Electrical Engineering  
-**University of Guilan**, Iran  
+University of Guilan, Iran  
 
 ---
 
