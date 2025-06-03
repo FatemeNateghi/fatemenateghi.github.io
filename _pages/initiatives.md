@@ -57,6 +57,5 @@ I served on the **Program Committee** for the [European Conference on Machine Le
 
 As part of the PC, I reviewed submissions and contributed to maintaining the scientific rigor of one of Europe's most prestigious machine learning conferences.
   
----
 
-Stay tuned for publications and platform demos related to both initiatives!
+
