@@ -20,26 +20,18 @@ You can also find my full list of papers on
   </strong><br>
   <strong>Fateme Nateghi</strong>, Jonathan H. Chen, et al.<br>
   <em>Ongoing Project</em><br>
-  <a href="https://assist-pc-frontend-1.onrender.com/" target="_blank">[Live Demo]</a>
+  <a href="https://assist-pc-frontend-1.onrender.com/" target="_blank">[Live Demo]</a><br><br>
+
+  SAGE is a specialist-trained AI system that enhances electronic consultations (eConsults) by:<br>
+  • Retrieving similar patient cases from electronic health records (EHR)<br>
+  • Recommending clinical actions based on real-world data<br>
+  • Pre-filling structured templates using large language models (LLMs)<br>
+  • Supporting retrieval-augmented generation (RAG) to ground responses in context<br><br>
+  The goal is to scale access to specialty care, reduce delays, and promote guideline-aligned decision-making at the point of care.
 </td>
 </tr></table>
 
-<p style="margin-top:10px;">
-SAGE is a specialist-trained AI system designed to assist healthcare professionals in complex medical decision-making. It enhances electronic consultations (eConsults) by:
-</p>
-
-<ul>
-  <li>Retrieving similar patient cases from electronic health records (EHR)</li>
-  <li>Recommending clinical actions (e.g., labs, medications, referrals) based on real-world data</li>
-  <li>Using Large Language Models (LLMs) to pre-fill structured specialty-specific templates</li>
-  <li>Supporting retrieval-augmented generation (RAG) to ground responses in clinical context</li>
-</ul>
-
-<p>The goal of SAGE is to scale access to specialty care, reduce delays, and promote guideline-aligned decision-making directly at the point of care.</p>
-
 <hr>
-
-
 
 
 <table><tr>
