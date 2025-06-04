@@ -16,9 +16,9 @@ This work was selected for funding through the [Stanford Bio-X Interdisciplinary
 - **Official PI**: Dr. Jonathan H. Chen  
 - **Co-PIs**: Dr. Michael Bernstein, Dr. Robert Tibshirani, Dr. Mary Kane Goldstein  
 - **Institution**: Stanford University  
-- **My Role**: Lead Postdoctoral Researcher and Grant Lead (Author and Contributor of the Original Proposal)
+- **My Role**: Lead Postdoctoral Researcher and Grant Lead 
 
-This interdisciplinary project leverages retrieval-augmented generation (RAG) and large language models (LLMs) to:
+This interdisciplinary project leverages RAG and LLMs to:
 - Automate clinical consultations by suggesting guideline-aligned templates
 - Improve access to specialty care
 - Scale equitable, data-driven decision support across health systems
