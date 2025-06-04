@@ -12,7 +12,7 @@ You can also find my full list of papers on
 ---
 <table><tr>
 <td width="30%">
-  <img src="/images/sage_demo_fig.png" width="100%" style="border-radius: 8px;">
+<img src="/images/sage_demo_fig.png" style="border-radius: 8px; width: 100%; height: auto; max-height: 200px; object-fit: contain;">
 </td>
 <td style="padding-left: 20px;">
   <strong style="color:#1a3e5f; font-size: 20px;">
