@@ -52,14 +52,21 @@ You can also find my full list of papers on
 
 <hr>
 
-<div class="project clearfix">
-  <img src="/images/aki_critically_ill_fig.png" alt="AKI ML Paper Figure">
-  <h3 style="color:#004080; font-size: 1.2em;">Predicting Outcomes of Acute Kidney Injury Using Machine Learning</h3>
+<table><tr>
+<td width="30%">
+  <img src="/images/aki_critically_ill_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    Predicting Outcomes of Acute Kidney Injury Using Machine Learning</strong><br>
   <p><strong>Fateme Nateghi Haredasht</strong>, Liesbeth Viaene, Hans Pottel, Wouter De Corte, Celine Vens  
   <br><em>Scientific Reports, 2023</em><br>
-  <a href="https://www.nature.com/articles/s41598-023-36864-y" target="_blank">[Paper]</a>
-  </p>
-</div>
+  <a href="https://www.nature.com/articles/s41598-023-36864-y">[Paper]</a> /
+  <a href="https://github.com/FatemeNateghi">[GitHub]</a> 
+</td>
+</tr></table>
+
+<hr>
 
 
 <table><tr>
