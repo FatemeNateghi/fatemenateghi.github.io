@@ -1,15 +1,10 @@
-.author__avatar {
-  width: 180px;            /* Increase size as desired */
-  height: 180px;
-  border-radius: 0;        /* Optional: removes round corners */
-  overflow: hidden;
+.author__avatar img {
+  border-radius: 0 !important;     /* Make image square */
+  width: 220px !important;         /* Increase size */
+  height: auto !important;         /* Maintain aspect ratio */
+  box-shadow: none !important;     /* Optional: remove shadow */
 }
 
-.author__avatar img {
-  width: 100%;
-  height: auto;
-  border-radius: 0;        /* Optional: makes it square */
-}
 .author__avatar {
   margin: 0 auto 20px;
 }
