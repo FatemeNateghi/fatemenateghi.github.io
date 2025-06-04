@@ -51,6 +51,22 @@ You can also find my full list of papers on
 
 <hr>
 
+<table><tr>
+<td width="30%">
+  <img src="/images/aki_critically_ill_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    Predicting Outcomes of Acute Kidney Injury Using Machine Learning
+  </strong><br>
+  <strong>Fateme Nateghi</strong>, Liesbeth Viaene, Hans Pottel, Wouter De Corte, Celine Vens<br>
+  <em>Scientific Reports, 2023</em><br>
+  <a href="https://www.nature.com/articles/s41598-023-36782-1">[Paper]</a> /
+  <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a> 
+</td>
+</tr></table>
+
+<hr>
 
 <table><tr>
 <td width="30%">
