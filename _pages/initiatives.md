@@ -7,11 +7,11 @@ author_profile: true
 
 ## 🧬 Stanford Bio-X 2024 Interdisciplinary Seed Grant Recipient
 
-I am the lead Postdoctoral Researcher and primary author on the awarded project:
+I am the lead postdoctoral researcher on the awarded project:
 
 **Enhancing Specialty Care with Digital Medical Consultations: A Retrieval-Augmented Language Model Approach**
 
-This work was selected for funding through the prestigious [Stanford Bio-X Interdisciplinary Initiatives Program Seed Grant](https://biox.stanford.edu/research/seed-grants/interdisciplinary-initiatives-program-seed-grant-enhancing-specialty-care), which supports high-impact collaborative science.
+This work was selected for funding through the [Stanford Bio-X Interdisciplinary Initiatives Program Seed Grant](https://biox.stanford.edu/research/seed-grants/interdisciplinary-initiatives-program-seed-grant-enhancing-specialty-care), which supports high-impact collaborative science.
 
 - **Official PI**: Dr. Jonathan H. Chen  
 - **Co-PIs**: Dr. Michael Bernstein, Dr. Robert Tibshirani, Dr. Mary Kane Goldstein  
@@ -28,7 +28,7 @@ This interdisciplinary project leverages retrieval-augmented generation (RAG) an
 
 ## 🌐 Stanford HAI AI Index 2025 Contributor
 
-I am contributing to the [2025 Stanford HAI AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report), one of the most influential global reports tracking the progress and impact of artificial intelligence.
+I am contributing to the [2025 Stanford HAI AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report).
 
 I specifically contributed to **Chapter 5: Science and Medicine**, which explores the impact of AI on healthcare and biomedical research. My role focuses on:
 - Highlighting major trends in non-imaging medical AI
