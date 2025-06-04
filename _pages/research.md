@@ -10,26 +10,29 @@ You can also find my full list of papers on
 <a href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ---
-<div class="project clearfix">
-  <img src="/images/sage_demo_fig.png" alt="SAGE Demo" style="width:300px; float:left; border-radius: 8px; margin-right: 20px;">
-  <h3 style="color:#004080; font-size: 1.2em;">SAGE – Specialist AI for Guiding Experts</h3>
-  <p><strong>Fateme Nateghi</strong>, Jonathan H. Chen, et al.  
-  <br><em>Ongoing Project</em>  
-  <br>
-  <a href="https://assist-pc-frontend-1.onrender.com/" target="_blank">[Live Demo]</a> /
-  <a href="https://github.com/FatemeNateghi/eConsult-embeddings" target="_blank">[GitHub]</a>
-  </p>
-  <p>
-  SAGE is a specialist-trained AI system that enhances electronic consultations (eConsults) by:
-  <ul>
-    <li>Retrieving similar patient cases from electronic health records (EHR)</li>
-    <li>Recommending clinical actions based on real-world data</li>
-    <li>Pre-filling structured templates using large language models (LLMs)</li>
-    <li>Supporting retrieval-augmented generation (RAG) to ground responses in clinical context</li>
-  </ul>
+<table><tr>
+<td width="30%">
+  <img src="/images/sage_demo_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    SAGE – Specialist AI for Guiding Experts
+  </strong><br>
+  <strong>Fateme Nateghi</strong>, Jonathan H. Chen, et al.<br>
+  <em>Ongoing Project</em><br>
+  <a href="https://assist-pc-frontend-1.onrender.com/" target="_blank">[Live Demo]</a><br><br> /
+  <a href="https://github.com/FatemeNateghi/eConsult-embeddings">[GitHub]</a>
+
+  SAGE is a specialist-trained AI system that enhances electronic consultations (eConsults) by:<br>
+  • Retrieving similar patient cases from electronic health records (EHR)<br>
+  • Recommending clinical actions based on real-world data<br>
+  • Pre-filling structured templates using large language models (LLMs)<br>
+  • Supporting retrieval-augmented generation (RAG) to ground responses in context<br><br>
   The goal is to scale access to specialty care, reduce delays, and promote guideline-aligned decision-making at the point of care.
-  </p>
-</div>
+</td>
+</tr></table>
+
+<hr>
 
 <table><tr>
 <td width="30%">
