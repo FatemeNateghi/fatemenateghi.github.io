@@ -1,6 +1,6 @@
 .author__avatar {
-  width: 180px;            /* Increase size as desired */
-  height: 180px;
+  width: 220px;            /* Increase size as desired */
+  height: 220px;
   border-radius: 0;        /* Optional: removes round corners */
   overflow: hidden;
 }
