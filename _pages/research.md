@@ -58,7 +58,7 @@ You can also find my full list of papers on
 <td style="padding-left: 20px;">
   <strong style="color:#1a3e5f; font-size: 20px;">
     Predicting Outcomes of Acute Kidney Injury Using Machine Learning</strong><br>
-  <p><strong>Fateme Nateghi Haredasht</strong>, Liesbeth Viaene, Hans Pottel, Wouter De Corte, Celine Vens  
+  <p><strong>Fateme Nateghi</strong>, Liesbeth Viaene, Hans Pottel, Wouter De Corte, Celine Vens  
   <br><em>Scientific Reports, 2023</em><br>
   <a href="https://www.nature.com/articles/s41598-023-36864-y">[Paper]</a> /
   <a href="https://github.com/FatemeNateghi">[GitHub]</a> 
