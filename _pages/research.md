@@ -77,7 +77,8 @@ You can also find my full list of papers on
   </strong><br>
   <strong>Fateme Nateghi</strong>, Celine Vens<br>
   <em>Machine Learning, 2022</em><br>
-  <a href="https://link.springer.com/article/10.1007/s10994-022-06257-x">[Paper]</a>
+  <a href="https://link.springer.com/article/10.1007/s10994-022-06257-x">[Paper]</a> /
+  <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a> 
 </td>
 </tr></table>
 
