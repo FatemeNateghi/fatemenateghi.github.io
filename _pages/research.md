@@ -60,7 +60,7 @@ You can also find my full list of papers on
     Predicting Outcomes of Acute Kidney Injury Using Machine Learning
   </strong><br>
   <strong>Fateme Nateghi</strong>, Liesbeth Viaene, Hans Pottel, Wouter De Corte, Celine Vens<br>
-  <em><strong>Scientific Reports<strong>, 2023</em><br>
+  <em><strong>Scientific Reports</strong>, 2023</em><br>
   <a href="https://www.nature.com/articles/s41598-023-36782-1">[Paper]</a> /
   <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a> 
 </td>
@@ -77,7 +77,7 @@ You can also find my full list of papers on
     Predicting Survival Outcomes in the Presence of Unlabeled Data
   </strong><br>
   <strong>Fateme Nateghi</strong>, Celine Vens<br>
-  <em><strong>Machine Learning<strong>, 2022</em><br>
+  <em><strong>Machine Learning</strong>, 2022</em><br>
   <a href="https://link.springer.com/article/10.1007/s10994-022-06257-x">[Paper]</a> /
   <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a> 
 </td>
@@ -93,7 +93,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Clinical Entity-Augmented Retrieval for Clinical Information Extraction (CLEAR)</strong><br>
   I. Lopez, A. Swaminathan, K. Vedula, S. Narayanan, <strong>Fateme Nateghi</strong><br>
-  <em><strong>npj Digital Medicine<strong>, 2025</em><br>
+  <em><strong>npj Digital Medicine</strong>, 2025</em><br>
   <a href="https://www.nature.com/articles/s41746-024-01377-1">[Paper]</a> /
   <a href="https://github.com/FatemeNateghi/clear">[GitHub]</a>
 </td>
@@ -161,7 +161,7 @@ You can also find my full list of papers on
     Supervised Fuzzy Partitioning
   </strong><br>
   P. Ashtari, <strong>Fateme Nateghi</strong>, H. Beigy<br>
-  <em><strong>Pattern Recognition<strong>, 2020</em><br>
+  <em><strong>Pattern Recognition</strong>, 2020</em><br>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320319303164">[Paper]</a>
 </td>
 </tr></table>
