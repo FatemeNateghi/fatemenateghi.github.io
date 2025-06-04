@@ -42,7 +42,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     A Multi-Site Machine Learning Model for Predicting Treatment Retention in Opioid Use Disorder</strong><br>
   <strong>Fateme Nateghi</strong>, Sajjad Fouladvand, Steven Tate, Min Min Chan, Joannas Jie Lin Yeow, Kira Griffiths, Ivan Lopez, Jeremiah W. Bertz, Adam Miner, Tina Hernandez-Boussard, Chwen-Yuen Angie Chen, Huiqiong Deng, Keith Humphreys, Anna Lembke, Alexander Vance, Jonathan H. Chen<br>
-  <em>Addiction, 2024</em><br>
+  <em><strong>Addiction<strong>, 2024</em><br>
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/add.16587">[Paper]</a> /
   <a href="https://github.com/HealthRex/CDSS/tree/master/scripts/OUDTreatmentRetentionVSAttrition">[GitHub]</a> /
   <a href="https://bupnal-attrition-predictor-elfr.onrender.com/">[WebApp]</a>
