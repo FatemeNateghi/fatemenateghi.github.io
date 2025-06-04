@@ -7,7 +7,7 @@ author_profile: true
 
 ## 🧬 Stanford Bio-X 2024 Interdisciplinary Seed Grant Recipient
 
-I am the lead postdoctoral researcher on the awarded project:
+I am the lead postdoctoral researcher and the main contributor on the awarded project:
 
 **Enhancing Specialty Care with Digital Medical Consultations: A Retrieval-Augmented Language Model Approach**
 
