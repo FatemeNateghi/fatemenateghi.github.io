@@ -1,6 +1,0 @@
-.author__avatar img {
-  border-radius: 0 !important;     /* Removes the circle */
-  width: 220px !important;         /* Make it bigger */
-  height: auto !important;         /* Keeps aspect ratio */
-  box-shadow: none !important;     /* Optional: cleaner look */
-}
