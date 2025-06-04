@@ -31,8 +31,6 @@ You can also find my full list of papers on
   </p>
 </div>
 
-
-
 <table><tr>
 <td width="30%">
   <img src="/images/bup_retention_fig.png" width="100%" style="border-radius: 8px;">
@@ -65,7 +63,6 @@ You can also find my full list of papers on
 </tr></table>
 
 <hr>
-
 
 <table><tr>
 <td width="30%">
