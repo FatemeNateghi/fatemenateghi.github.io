@@ -130,7 +130,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - _includes  # ✅ this is needed to include custom.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
