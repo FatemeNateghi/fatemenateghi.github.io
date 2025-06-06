@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## 🧬 Stanford Bio-X 2024 Interdisciplinary Seed Grant Recipient
+## Stanford Bio-X 2024 Interdisciplinary Seed Grant Recipient
 
 I am the lead postdoctoral researcher and the main contributor on the awarded project:
 
@@ -26,7 +26,7 @@ This interdisciplinary project leverages RAG and LLMs to:
 ---
 
 
-## 🌐 Stanford HAI AI Index 2025 Contributor
+## Stanford HAI AI Index 2025 Contributor
 
 I am contributing to the [2025 Stanford HAI AI Index Report](https://hai.stanford.edu/ai-index/2025-ai-index-report).
 
@@ -40,7 +40,7 @@ The AI Index Report is aimed at policymakers, researchers, and the public, and m
 ---
 
   
-## 🧠 Session Organizer — PSB 2025 & 2026
+## Session Organizer — PSB 2025 & 2026
 
 I co-organize the session **[AI and Machine Learning in Clinical Medicine](https://psb.stanford.edu/callfor/papers/ai.html)** at the [Pacific Symposium on Biocomputing (PSB)](https://psb.stanford.edu/), a leading venue for interdisciplinary work at the intersection of biology, medicine, and computation.
 
@@ -55,7 +55,7 @@ Our goal is to foster a rigorous scientific community that addresses the practic
 ---
 
 
-## 📊 Program Chair — ECML PKDD 2024
+## Program Chair — ECML PKDD 2024
 
 I served on the Program Committee for the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)](https://ecmlpkdd.org/2024/) 2024 Research Track.
 
