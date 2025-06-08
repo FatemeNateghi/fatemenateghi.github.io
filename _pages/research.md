@@ -123,7 +123,7 @@ You can also find my full list of papers on
 </td>
 <td style="padding-left: 20px;">
   <strong style="color:#1a3e5f; font-size: 20px;">
-    Evaluating LLMs on Autocompleting Specialist eConsult Templates
+   MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks
   </strong><br>
  Suhana Bedi, ..., <strong>Fateme Nateghi</strong>, Jonathan H. Chen, Nigam H. Shah, et al.<br>
   <em><strong>arXiv</strong>, 2024</em><br>
