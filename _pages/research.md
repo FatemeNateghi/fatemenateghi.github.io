@@ -125,15 +125,13 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Evaluating LLMs on Autocompleting Specialist eConsult Templates
   </strong><br>
-  <strong>Fateme Nateghi</strong>, Jonathan H. Chen<br>
+ Suhana Bedi, ..., <strong>Fateme Nateghi</strong>, Jonathan H. Chen, Nigam H. Shah, et al.<br>
   <em><strong>arXiv</strong>, 2024</em><br>
   <a href="https://arxiv.org/abs/2505.23802">[Paper]</a> /
   <a href="https://crfm-helm.readthedocs.io/en/latest/medhelm/">[Med-HELM Docs]</a> /
   <a href="https://crfm.stanford.edu/helm/medhelm/latest/#/">[Live Benchmark]</a>
 </td>
 </tr></table>
-
-
 
 
 <table><tr>
