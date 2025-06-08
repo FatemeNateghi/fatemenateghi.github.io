@@ -128,7 +128,6 @@ You can also find my full list of papers on
   <strong>Fateme Nateghi</strong>, Jonathan H. Chen<br>
   <em><strong>arXiv</strong>, 2024</em><br>
   <a href="https://arxiv.org/abs/2505.23802">[Paper]</a> /
-  <a href="https://github.com/FatemeNateghi/eConsult-embeddings">[GitHub]</a> /
   <a href="https://crfm-helm.readthedocs.io/en/latest/medhelm/">[Med-HELM Docs]</a> /
   <a href="https://crfm.stanford.edu/helm/medhelm/latest/#/">[Live Benchmark]</a>
 </td>
