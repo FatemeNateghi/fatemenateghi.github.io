@@ -27,4 +27,4 @@ University of Guilan, Iran
 ## 📄 Full CV
 
 You can download my complete CV here:  
-👉 [Click to view full CV (PDF)](https://github.com/FatemeNateghi/cv/blob/main/cv_Fatima.pdf)
+[Click to view full CV (PDF)](https://github.com/FatemeNateghi/cv/blob/main/cv_Fatima.pdf)
