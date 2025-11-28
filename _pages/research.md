@@ -29,10 +29,37 @@ You can also find my full list of papers on
   • Pre-filling structured templates using large language models (LLMs)<br>
   • Supporting retrieval-augmented generation (RAG) to ground responses in context<br><br>
   The goal is to scale access to specialty care, reduce delays, and promote guideline-aligned decision-making at the point of care.
-</td>
-</tr></table>
+
+<br><br>
+<strong style="color:#1a3e5f; font-size: 18px;">Selected Publications under SAGE</strong><br><br>
+
+<div style="margin-left: 5px;">
+
+  <p style="margin-bottom: 12px;">
+    <strong style="color:#1a3e5f;">
+      Automated Evaluation of Large Language Model Response Concordance with Human Specialist Responses on Physician-to-Physician eConsult Cases
+    </strong><br>
+    DJH Wu<strong>*</strong>, <strong>F Nateghi*</strong>, D Wu, V Ravi, LG McCoy, Y Weng, K Chopra, JH Chen<br>
+    <em>medRxiv preprint, 2025</em><br>
+    <span style="font-size: 14px; color: #666;">*Equal contribution</span><br>
+    <a href="https://www.medrxiv.org/content/10.1101/2025.08.14.25332839v1" target="_blank">[Paper]</a>
+  </p>
+
+  <p style="margin-bottom: 12px;">
+    <strong style="color:#1a3e5f;">
+      Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates
+    </strong><br>
+    LG McCoy<strong>*</strong>, <strong>F Nateghi*</strong>, K Chopra, D Wu, DJH Wu, A Conteh, JH Chen<br>
+    <em>arXiv preprint, 2025</em><br>
+    <span style="font-size: 14px; color: #666;">*Equal contribution</span><br>
+    <a href="https://arxiv.org/abs/2508.01159" target="_blank">[arXiv]</a>
+  </p>
+
+</div>
+
 
 <hr>
+
 
 <table><tr>
 <td width="30%">
