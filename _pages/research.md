@@ -4,15 +4,15 @@ permalink: /research/
 layout: single
 author_profile: true
 ---
----
 
-You can also find my full list of papers on
+You can also find my full list of papers on 
 <a href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
----
+<hr>
+
 <table><tr>
 <td width="30%">
-<img src="/images/sage_demo_fig.png" style="border-radius: 8px; width: 100%; height: auto; max-height: 200px; object-fit: contain;">
+  <img src="/images/sage_demo_fig.png" style="border-radius: 8px; width: 100%; height: auto; max-height: 200px; object-fit: contain;">
 </td>
 <td style="padding-left: 20px;">
   <strong style="color:#1a3e5f; font-size: 20px;">
@@ -24,41 +24,63 @@ You can also find my full list of papers on
   <a href="https://github.com/FatemeNateghi/eConsult-embeddings">[GitHub]</a><br><br>
 
   SAGE is a specialist-trained AI system that enhances electronic consultations (eConsults) by:<br>
-  • Retrieving similar patient cases from electronic health records (EHR)<br>
+  • Retrieving similar EHR patient cases<br>
   • Recommending clinical actions based on real-world data<br>
-  • Pre-filling structured templates using large language models (LLMs)<br>
-  • Supporting retrieval-augmented generation (RAG) to ground responses in context<br><br>
-  The goal is to scale access to specialty care, reduce delays, and promote guideline-aligned decision-making at the point of care.
+  • Pre-filling templates using LLMs<br>
+  • Supporting retrieval-augmented generation (RAG)<br><br>
 
-<br><br>
-<strong style="color:#1a3e5f; font-size: 18px;">Selected Publications under SAGE</strong><br><br>
+  The goal is to scale access to specialty care and promote guideline-aligned decision-making.
+</td>
+</tr></table>
+
+<hr>
+
+<strong style="color:#1a3e5f; font-size: 20px;">Selected Publications under SAGE</strong><br><br>
 
 <div style="margin-left: 5px;">
 
-  <p style="margin-bottom: 12px;">
+  <p style="margin-bottom: 14px;">
     <strong style="color:#1a3e5f;">
       Automated Evaluation of Large Language Model Response Concordance with Human Specialist Responses on Physician-to-Physician eConsult Cases
     </strong><br>
-    DJH Wu<strong>*</strong>, <strong>F Nateghi*</strong>, D Wu, V Ravi, LG McCoy, Y Weng, K Chopra, JH Chen<br>
+    DJH Wu*, <strong>FN Nateghi*</strong>, D Wu, V Ravi, LG McCoy, Y Weng, K Chopra, JH Chen<br>
     <em>medRxiv preprint, 2025</em><br>
-    <span style="font-size: 14px; color: #666;">*Equal contribution</span><br>
+    <span style="font-size: 14px; color:#666;">*Equal contribution</span><br>
     <a href="https://www.medrxiv.org/content/10.1101/2025.08.14.25332839v1" target="_blank">[Paper]</a>
   </p>
 
-  <p style="margin-bottom: 12px;">
+  <p style="margin-bottom: 14px;">
     <strong style="color:#1a3e5f;">
       Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates
     </strong><br>
-    LG McCoy<strong>*</strong>, <strong>F Nateghi*</strong>, K Chopra, D Wu, DJH Wu, A Conteh, JH Chen<br>
+    LG McCoy*, <strong>FN Nateghi*</strong>, K Chopra, D Wu, DJH Wu, A Conteh, JH Chen<br>
     <em>arXiv preprint, 2025</em><br>
-    <span style="font-size: 14px; color: #666;">*Equal contribution</span><br>
+    <span style="font-size: 14px; color:#666;">*Equal contribution</span><br>
     <a href="https://arxiv.org/abs/2508.01159" target="_blank">[arXiv]</a>
   </p>
 
 </div>
 
+<hr>
 
 <hr>
+
+<table><tr>
+<td width="30%">
+  <img src="/images/llm_guardrails_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    Retrieval-Augmented Guardrails for AI-Drafted Patient-Portal Messages: Error Taxonomy Construction and Large-Scale Evaluation
+  </strong><br>
+  W. Chen, <strong>F. Nateghi</strong>, K.C. Black, F. Grolleau, E. Alsentzer, J.H. Chen, et al.<br>
+  <em>arXiv preprint, 2025</em><br>
+  <a href="https://arxiv.org/abs/2509.22565" target="_blank">[arXiv]</a>
+</td>
+</tr></table>
+
+<hr>
+
 
 
 <table><tr>
@@ -67,7 +89,8 @@ You can also find my full list of papers on
 </td>
 <td style="padding-left: 20px;">
   <strong style="color:#1a3e5f; font-size: 20px;">
-    A Multi-Site Machine Learning Model for Predicting Treatment Retention in Opioid Use Disorder</strong><br>
+    A Multi-Site Machine Learning Model for Predicting Treatment Retention in Opioid Use Disorder
+  </strong><br>
   <strong>Fateme Nateghi</strong>, Sajjad Fouladvand, Steven Tate, Min Min Chan, Joannas Jie Lin Yeow, Kira Griffiths, Ivan Lopez, Jeremiah W. Bertz, Adam Miner, Tina Hernandez-Boussard, Chwen-Yuen Angie Chen, Huiqiong Deng, Keith Humphreys, Anna Lembke, Alexander Vance, Jonathan H. Chen<br>
   <em><strong>Addiction</strong>, 2024</em><br>
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/add.16587">[Paper]</a> /
@@ -89,7 +112,7 @@ You can also find my full list of papers on
   <strong>Fateme Nateghi</strong>, Liesbeth Viaene, Hans Pottel, Wouter De Corte, Celine Vens<br>
   <em><strong>Scientific Reports</strong>, 2023</em><br>
   <a href="https://www.nature.com/articles/s41598-023-36782-1">[Paper]</a> /
-  <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a> 
+  <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a>
 </td>
 </tr></table>
 
@@ -106,7 +129,7 @@ You can also find my full list of papers on
   <strong>Fateme Nateghi</strong>, Celine Vens<br>
   <em><strong>Machine Learning</strong>, 2022</em><br>
   <a href="https://link.springer.com/article/10.1007/s10994-022-06257-x">[Paper]</a> /
-  <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a> 
+  <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a>
 </td>
 </tr></table>
 
@@ -118,7 +141,8 @@ You can also find my full list of papers on
 </td>
 <td style="padding-left: 20px;">
   <strong style="color:#1a3e5f; font-size: 20px;">
-    Clinical Entity-Augmented Retrieval for Clinical Information Extraction (CLEAR)</strong><br>
+    Clinical Entity-Augmented Retrieval for Clinical Information Extraction (CLEAR)
+  </strong><br>
   I. Lopez, A. Swaminathan, K. Vedula, S. Narayanan, <strong>Fateme Nateghi</strong><br>
   <em><strong>npj Digital Medicine</strong>, 2025</em><br>
   <a href="https://www.nature.com/articles/s41746-024-01377-1">[Paper]</a> /
@@ -150,9 +174,9 @@ You can also find my full list of papers on
 </td>
 <td style="padding-left: 20px;">
   <strong style="color:#1a3e5f; font-size: 20px;">
-   MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks
+    MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks
   </strong><br>
- Suhana Bedi, ..., <strong>Fateme Nateghi</strong>, Jonathan H. Chen, Nigam H. Shah, et al.<br>
+  Suhana Bedi, ..., <strong>Fateme Nateghi</strong>, Jonathan H. Chen, Nigam H. Shah, et al.<br>
   <em><strong>arXiv</strong>, 2025</em><br>
   <a href="https://arxiv.org/abs/2505.23802">[Paper]</a> /
   <a href="https://crfm-helm.readthedocs.io/en/latest/medhelm/">[Med-HELM Docs]</a> /
@@ -160,6 +184,7 @@ You can also find my full list of papers on
 </td>
 </tr></table>
 
+<hr>
 
 <table><tr>
 <td width="30%">
@@ -188,7 +213,7 @@ You can also find my full list of papers on
   </strong><br>
   P. Ashtari, P. Behmandpoor, <strong>Fateme Nateghi</strong>, J.H. Chen, P. Patrinos<br>
   <em>arXiv preprint, 2024</em><br>
-  <a href="https://arxiv.org/abs/2408.12691">[arXiv]</a> / 
+  <a href="https://arxiv.org/abs/2408.12691">[arXiv]</a> /
   <a href="https://github.com/FatemeNateghi/lrf">[GitHub]</a>
 </td>
 </tr></table>
@@ -210,6 +235,3 @@ You can also find my full list of papers on
 </tr></table>
 
 <hr>
-
-
-
