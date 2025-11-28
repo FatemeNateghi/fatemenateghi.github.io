@@ -8,8 +8,7 @@ location: "Atlanta, GA, USA"
 date: 2025-11-18T10:00:00
 ---
 
-🔗 [Conference Website]([https://amia.secure-platform.com/symposium/gallery/rounds/82001/details/11818](https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/20212))
-
+🔗 [Conference Website](https://amia.secure-platform.com/symposium/gallery/rounds/82021/details/20212)
 📄 [Slides](/files/Right-Patient-Right-Specialist-Right-Time.pdf)
 
 Presented our work on **SAGE**, an AI-driven system for routing primary care eConsult questions to the right specialty and condition using structured templates, embeddings, and GPT-based reasoning.  
