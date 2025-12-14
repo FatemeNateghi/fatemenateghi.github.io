@@ -60,6 +60,22 @@ Our goal is to foster a rigorous scientific community that addresses the practic
 I served on the Program Committee for the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)](https://ecmlpkdd.org/2024/) 2024 Research Track.
 
 As part of the PC, I reviewed submissions and contributed to maintaining the scientific rigor of one of Europe's most prestigious machine learning conferences.
-  
+
+  ---
+
+## Member — ARISE (Advancing Healthcare AI through Open Science)
+
+I am a member of **ARISE**, an open research network dedicated to advancing the safety, reliability, and real-world evaluation of clinical AI systems through open science.
+
+Through ARISE, I contribute to:
+- Large-scale, realistic clinical benchmarks for AI evaluation (e.g., **NOHARM / MAST**)
+- Open, reproducible methods for assessing clinical safety and reliability
+- Community-driven research at the intersection of medicine, AI, and policy
+
+ARISE brings together researchers across institutions to ensure that advances in medical AI translate into clinically meaningful and trustworthy systems.
+
+🔗 https://arise-ai.org  
+🔗 https://bench.arise-ai.org
+
 
 
