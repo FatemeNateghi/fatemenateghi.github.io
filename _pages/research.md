@@ -21,7 +21,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     First, Do NOHARM: Towards Clinically Safe Large Language Models
   </strong><br>
-  <strong>Fateme Nateghi*</strong>, David Wu*, et al.<br>
+  David Wu*, <strong>Fateme Nateghi*</strong>, et al.<br>
   <em>arXiv preprint, 2025</em><br>
   <span style="font-size: 14px; color:#666;">*Co-first authors</span><br><br>
 
