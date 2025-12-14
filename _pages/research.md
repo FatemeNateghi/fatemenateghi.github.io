@@ -10,6 +10,34 @@ You can also find my full list of papers on
 
 <hr>
 
+<h2 style="margin-bottom: 10px;">Recent Highlight</h2>
+
+<table><tr>
+<td width="30%">
+  <img src="/images/noharm_benchmark_fig.png" style="border-radius: 8px; width: 100%; height: auto; max-height: 200px; object-fit: contain;">
+</td>
+<td style="padding-left: 20px;">
+
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    First, Do NOHARM: Towards Clinically Safe Large Language Models
+  </strong><br>
+  <strong>Fateme Nateghi*</strong>, David Wu*, et al.<br>
+  <em>arXiv preprint, 2025</em><br>
+  <span style="font-size: 14px; color:#666;">*Co-first authors</span><br><br>
+
+  We introduce <strong>NOHARM</strong>, a large-scale benchmark for evaluating the clinical safety of large language models using real physician-to-physician consultation cases.
+  NOHARM is the foundation of <strong>MAST (Medical AI Superintelligence Test)</strong>, a new suite of realistic clinical benchmarks for medical AI.
+  <br><br>
+
+  <a href="https://bench.arise-ai.org" target="_blank">[Live Benchmark]</a> |
+  <a href="https://arxiv.org/abs/2512.01241" target="_blank">[Paper]</a>
+
+</td>
+</tr></table>
+
+<hr>
+
+
 <table><tr>
 <td width="30%">
   <img src="/images/sage_demo_fig.png" style="border-radius: 8px; width: 100%; height: auto; max-height: 200px; object-fit: contain;">
@@ -63,8 +91,6 @@ You can also find my full list of papers on
 
 <hr>
 
-<hr>
-
 <table><tr>
 <td width="30%">
   <img src="/images/llm_guardrails_fig.png" width="100%" style="border-radius: 8px;">
@@ -73,14 +99,13 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Retrieval-Augmented Guardrails for AI-Drafted Patient-Portal Messages: Error Taxonomy Construction and Large-Scale Evaluation
   </strong><br>
-  W. Chen, <strong>F. Nateghi</strong>, K.C. Black, F. Grolleau, E. Alsentzer, J.H. Chen, et al.<br>
+  W. Chen, <strong>Fateme Nateghi</strong>, K.C. Black, F. Grolleau, E. Alsentzer, J.H. Chen, et al.<br>
   <em>arXiv preprint, 2025</em><br>
   <a href="https://arxiv.org/abs/2509.22565" target="_blank">[arXiv]</a>
 </td>
 </tr></table>
 
 <hr>
-
 
 
 <table><tr>
