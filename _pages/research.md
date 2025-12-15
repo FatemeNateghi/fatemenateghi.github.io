@@ -13,7 +13,7 @@ You can also find my full list of papers on
 <h2 style="margin-bottom: 10px;">Recent Highlight</h2>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/noharm_benchmark_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -39,7 +39,7 @@ You can also find my full list of papers on
 
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/sage_demo_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -92,7 +92,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/llm_guardrails_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -109,7 +109,7 @@ You can also find my full list of papers on
 
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/bup_retention_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -127,7 +127,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/aki_critically_ill_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -144,7 +144,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/semi_supervised_survival_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -161,7 +161,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/clear_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -178,7 +178,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/diversity_sampling_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -194,7 +194,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/llm_autocomplete_fig.png" width="100%">
 </td>
 <td style="padding-left: 20px;">
@@ -212,7 +212,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/deconver_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -229,7 +229,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/imf_compression_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
@@ -246,7 +246,7 @@ You can also find my full list of papers on
 <hr>
 
 <table><tr>
-<td width="30%">
+<td width="35%">
   <img src="/images/fuzzy_partitioning_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">
