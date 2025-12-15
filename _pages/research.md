@@ -71,7 +71,7 @@ You can also find my full list of papers on
     <strong style="color:#1a3e5f;">
       Automated Evaluation of Large Language Model Response Concordance with Human Specialist Responses on Physician-to-Physician eConsult Cases
     </strong><br>
-    DJH Wu*, <strong>F Nateghi*</strong>, D Wu, V Ravi, LG McCoy, Y Weng, K Chopra, JH Chen<br>
+    DJH Wu*, <strong>Fateme Nateghi*</strong>, D Wu, V Ravi, LG McCoy, Y Weng, K Chopra, JH Chen<br>
     <em>medRxiv preprint, 2025</em><br>
     <span style="font-size: 14px; color:#666;">*Equal contribution</span><br>
     <a href="https://www.medrxiv.org/content/10.1101/2025.08.14.25332839v1" target="_blank">[Paper]</a>
@@ -81,7 +81,7 @@ You can also find my full list of papers on
     <strong style="color:#1a3e5f;">
       Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates
     </strong><br>
-    LG McCoy*, <strong>F Nateghi*</strong>, K Chopra, D Wu, DJH Wu, A Conteh, JH Chen<br>
+    LG McCoy*, <strong>Fateme Nateghi*</strong>, K Chopra, D Wu, DJH Wu, A Conteh, JH Chen<br>
     <em>arXiv preprint, 2025</em><br>
     <span style="font-size: 14px; color:#666;">*Equal contribution</span><br>
     <a href="https://arxiv.org/abs/2508.01159" target="_blank">[arXiv]</a>
