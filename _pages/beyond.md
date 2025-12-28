@@ -5,8 +5,40 @@ layout: single
 author_profile: true
 ---
 
-Outside the lab, I love exploring the intersection of creativity and wellness. Whether it's experimenting with large language models in fun ways, like rewriting academic abstracts as poems, or designing polished visuals for my projects, I find joy in blending science with art. 
-
-Staying active is a fundamental part of my life. I regularly play volleyball, enjoy hiking and biking, and follow a strength training routine. I love traveling and treasure moments spent with friends. Music keeps me motivated, especially trance and EDM. Additionally, I enjoy reading books and listening to podcasts about longevity, metabolic health, and performance optimization, as I'm always curious about how we can feel and function better for longer.
+Outside of research, I love **traveling**, **photography**, and exploring new **coffee** and **food** spots.
 
 ---
+
+## Highlights
+<div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 14px;">
+
+  <figure style="margin:0;">
+    <img src="/images/beyond/aquarium.jpeg" style="width:100%; border-radius:10px;">
+    <figcaption style="font-size:14px; color:#666; margin-top:6px;">
+      Georgia Aquarium, Atlanta
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="/images/beyond/normandy.jpeg" style="width:100%; border-radius:10px;">
+    <figcaption style="font-size:14px; color:#666; margin-top:6px;">
+      Étretat, Normandy, France
+    </figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="/images/beyond/me_antelope.jpeg" style="width:100%; border-radius:10px;">
+    <figcaption style="font-size:14px; color:#666; margin-top:6px;">
+      Lower Antelope Canyon, Arizona
+    </figcaption>
+  </figure>
+
+</div>
+
+
+
+---
+
+## Coffee & Food
+
+I enjoy trying local cafés and finding great food wherever I travel — it’s my favorite way to experience a new city.
