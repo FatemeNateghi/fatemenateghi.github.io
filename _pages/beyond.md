@@ -27,7 +27,7 @@ Outside of research, I love **traveling**, **photography**, and exploring new **
   </figure>
 
   <figure style="margin:0;">
-    <img src="/images/beyond/me_antelope.jpeg" style="width:100%; border-radius:10px;">
+    <img src="/images/beyond/lady_in_the_wind.jpeg" style="width:100%; border-radius:10px;">
     <figcaption style="font-size:14px; color:#666; margin-top:6px;">
       Lower Antelope Canyon, Arizona
     </figcaption>
