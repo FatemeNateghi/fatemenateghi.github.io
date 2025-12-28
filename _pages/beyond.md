@@ -9,7 +9,7 @@ Outside of research, I love traveling, photography, and exploring new coffee and
 
 ---
 
-## Highlights
+## Through My Lens
 <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 14px;">
 
   <figure style="margin:0;">
