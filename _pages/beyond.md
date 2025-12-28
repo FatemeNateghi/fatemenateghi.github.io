@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Outside of research, I love **traveling**, **photography**, and exploring new **coffee** and **food** spots.
+Outside of research, I love traveling, photography, and exploring new coffee and food spots.
 
 ---
 
