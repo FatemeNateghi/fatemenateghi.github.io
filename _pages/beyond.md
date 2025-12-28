@@ -29,7 +29,9 @@ Outside of research, I love traveling, photography, and exploring new coffee and
   <figure style="margin:0;">
     <img src="/images/beyond/lady_in_the_wind.jpeg" style="width:100%; border-radius:10px;">
     <figcaption style="font-size:14px; color:#666; margin-top:6px;">
-      Lower Antelope Canyon, Arizona
+Lower Antelope Canyon, Arizona  
+<span style="font-size: 13px; color:#777;">(can you spot the “Lady in the Wind”?)</span>
+
     </figcaption>
   </figure>
 
