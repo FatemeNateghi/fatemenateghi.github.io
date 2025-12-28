@@ -35,12 +35,12 @@ Lower Antelope Canyon, Arizona
     </figcaption>
   </figure>
   
-<figure style="margin:0;">
+<!-- <figure style="margin:0;">
   <img src="/images/beyond/nyc_central_park.jpeg" style="width:100%; border-radius:10px;">
   <figcaption style="font-size:14px; color:#666; margin-top:6px;">
     New York City — Central Park from Rockefeller Center
   </figcaption>
-</figure>
+</figure> -->
 
 </div>
 
