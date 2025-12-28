@@ -20,7 +20,7 @@ main:
   - title: "Education"
     url: /education/    
     
-  #- title: "Beyond Research"
-    #url: /beyond/
+  - title: "Beyond Research"
+    url: /beyond/
 
     
