@@ -38,9 +38,3 @@ Outside of research, I love traveling, photography, and exploring new coffee and
 
 
 
-
----
-
-## Coffee & Food
-
-I enjoy trying local cafés and finding great food wherever I travel — it’s my favorite way to experience a new city.
