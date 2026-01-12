@@ -34,8 +34,9 @@ Through ARISE, I contribute to:
 - Open, reproducible methods for assessing clinical safety and reliability
 - Community-driven research at the intersection of medicine, AI, and policy
 
-🔗 https://www.arise-ai.org/team  
-🔗 https://bench.arise-ai.org
+<a href="https://www.arise-ai.org/team" target="_blank">🔗 ARISE Team</a><br>
+<a href="https://bench.arise-ai.org" target="_blank">🔗 MAST / NOHARM Benchmark</a>
+
 
 ---
 
