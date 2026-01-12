@@ -25,6 +25,19 @@ This interdisciplinary project leverages RAG and LLMs to:
 
 ---
 
+## Data Science Lead — ARISE (Advancing Healthcare AI through Open Science)
+
+I serve as a **Data Science Lead** in **ARISE**, an open research network dedicated to advancing the safety, reliability, and real-world evaluation of clinical AI systems through open science.
+
+Through ARISE, I contribute to:
+- Large-scale, realistic clinical benchmarks for AI evaluation (e.g., **NOHARM / MAST**)
+- Open, reproducible methods for assessing clinical safety and reliability
+- Community-driven research at the intersection of medicine, AI, and policy
+
+🔗 https://www.arise-ai.org/team  
+🔗 https://bench.arise-ai.org
+
+---
 
 ## Stanford HAI AI Index 2025 Contributor
 
@@ -63,19 +76,7 @@ As part of the PC, I reviewed submissions and contributed to maintaining the sci
 
   ---
 
-## Member — ARISE (Advancing Healthcare AI through Open Science)
 
-I am a member of **ARISE**, an open research network dedicated to advancing the safety, reliability, and real-world evaluation of clinical AI systems through open science.
-
-Through ARISE, I contribute to:
-- Large-scale, realistic clinical benchmarks for AI evaluation (e.g., **NOHARM / MAST**)
-- Open, reproducible methods for assessing clinical safety and reliability
-- Community-driven research at the intersection of medicine, AI, and policy
-
-ARISE brings together researchers across institutions to ensure that advances in medical AI translate into clinically meaningful and trustworthy systems.
-
-🔗 https://arise-ai.org  
-🔗 https://bench.arise-ai.org
 
 
 
