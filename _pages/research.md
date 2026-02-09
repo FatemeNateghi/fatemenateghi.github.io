@@ -49,7 +49,7 @@ You can also find my full list of papers on
   <strong>Fateme Nateghi</strong>, Jonathan H. Chen, et al.<br>
   <em>Ongoing Project</em><br>
   <a href="https://sage.arise-ai.org/" target="_blank">[Live Demo]</a> /
-  <a href="https://github.com/FatemeNateghi/eConsult-embeddings">[GitHub]</a><br><br>
+  <a href="https://github.com/HealthRex/CDSS/tree/master/scripts/eConsult">[GitHub]</a><br><br>
 
   SAGE is a specialist-trained AI system that enhances electronic consultations (eConsults) by:<br>
   • Retrieving similar EHR patient cases<br>
