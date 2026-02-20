@@ -13,17 +13,19 @@ Outside of research, I love traveling, photography, and exploring new coffee and
     <figure style="margin:0;">
       <img src="/images/beyond/hiking1.jpeg"
            style="width:100%; border-radius:12px; max-height:420px; object-fit:cover;">
-      <figcaption style="font-size:14px; color:#666; margin-top:6px;">
-        Hiking & recharging in nature 🌿
-      </figcaption>
+<figcaption style="font-size:14px; color:#666; margin-top:6px;">
+  Horseshoe Bend, Arizona<br>
+  <span style="font-size:13px; color:#777;">Hiking & recharging in nature 🌿</span>
+</figcaption>
     </figure>
 
     <figure style="margin:0;">
       <img src="/images/beyond/hiking2.jpeg"
            style="width:100%; border-radius:12px; max-height:420px; object-fit:cover;">
-      <figcaption style="font-size:14px; color:#666; margin-top:6px;">
-        A reminder to slow down and look up
-      </figcaption>
+<figcaption style="font-size:14px; color:#666; margin-top:6px;">
+  Hawai‘i Volcanoes National Park, Big Island<br>
+  <span style="font-size:13px; color:#777;">A reminder to slow down and look up</span>
+</figcaption>
     </figure>
 
   </div>
