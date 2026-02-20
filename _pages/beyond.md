@@ -17,7 +17,7 @@ Outside of research, I love traveling, hiking, photography, and exploring new co
       </div>
       <figcaption style="font-size:14px; color:#666; margin-top:8px;">
         Horseshoe Bend, Arizona<br>
-        <span style="font-size:13px; color:#777;">Recharging in nature 🌿</span>
+        <span style="font-size:13px; color:#777;"></span>
       </figcaption>
     </figure>
 
@@ -28,7 +28,7 @@ Outside of research, I love traveling, hiking, photography, and exploring new co
       </div>
       <figcaption style="font-size:14px; color:#666; margin-top:8px;">
         Hawai‘i Volcanoes National Park, Big Island<br>
-        <span style="font-size:13px; color:#777;">A reminder to slow down and look up</span>
+        <span style="font-size:13px; color:#777;"></span>
       </figcaption>
     </figure>
 
