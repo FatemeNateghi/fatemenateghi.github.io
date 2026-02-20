@@ -8,6 +8,31 @@ author_profile: true
 Outside of research, I love traveling, photography, and exploring new coffee and food spots.
 
 ---
+<div style="margin-top: 24px; margin-bottom: 36px;">
+  <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
+
+    <figure style="margin:0;">
+      <img src="/images/beyond/hiking1.jpeg"
+           style="width:100%; border-radius:12px; max-height:420px; object-fit:cover;">
+      <figcaption style="font-size:14px; color:#666; margin-top:6px;">
+        Hiking & recharging in nature 🌿
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;">
+      <img src="/images/beyond/hiking2.jpeg"
+           style="width:100%; border-radius:12px; max-height:420px; object-fit:cover;">
+      <figcaption style="font-size:14px; color:#666; margin-top:6px;">
+        A reminder to slow down and look up
+      </figcaption>
+    </figure>
+
+  </div>
+</div>
+
+
+
+---
 
 ## Through My Lens
 <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 14px;">
