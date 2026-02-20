@@ -11,26 +11,29 @@ Outside of research, I love traveling, photography, and exploring new coffee and
   <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
 
     <figure style="margin:0;">
-      <img src="/images/beyond/hiking1.jpeg"
-           style="width:100%; border-radius:12px; max-height:420px; object-fit:cover;">
-<figcaption style="font-size:14px; color:#666; margin-top:6px;">
-  Horseshoe Bend, Arizona<br>
-  <span style="font-size:13px; color:#777;">Hiking & recharging in nature 🌿</span>
-</figcaption>
+      <div style="height:380px; overflow:hidden; border-radius:12px;">
+        <img src="/images/beyond/hiking1.jpeg"
+             style="width:100%; height:100%; object-fit:cover;">
+      </div>
+      <figcaption style="font-size:14px; color:#666; margin-top:8px;">
+        Horseshoe Bend, Arizona<br>
+        <span style="font-size:13px; color:#777;">Recharging in nature 🌿</span>
+      </figcaption>
     </figure>
 
     <figure style="margin:0;">
-      <img src="/images/beyond/hiking2.jpeg"
-           style="width:100%; border-radius:12px; max-height:420px; object-fit:cover;">
-<figcaption style="font-size:14px; color:#666; margin-top:6px;">
-  Hawai‘i Volcanoes National Park, Big Island<br>
-  <span style="font-size:13px; color:#777;">A reminder to slow down and look up</span>
-</figcaption>
+      <div style="height:380px; overflow:hidden; border-radius:12px;">
+        <img src="/images/beyond/hiking2.jpeg"
+             style="width:100%; height:100%; object-fit:cover;">
+      </div>
+      <figcaption style="font-size:14px; color:#666; margin-top:8px;">
+        Hawai‘i Volcanoes National Park, Big Island<br>
+        <span style="font-size:13px; color:#777;">A reminder to slow down and look up</span>
+      </figcaption>
     </figure>
 
   </div>
 </div>
-
 ## Through My Lens
 <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 14px;">
 
