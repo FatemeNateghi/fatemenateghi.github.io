@@ -45,3 +45,76 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
 }
+
+/* === Redesign 2026 overrides === */
+:root {
+    --global-link-color                 : #1f4ed8;
+    --global-link-color-hover           : #1733a3;
+    --global-link-color-visited         : #5a6fc7;
+}
+html, body {
+    font-family: 'Inter', system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+}
+.author__avatar img {
+    border-radius: 12px !important;
+    box-shadow: 0 8px 24px rgba(11,18,32,.08);
+}
+.author__avatar {
+    border-radius: 12px !important;
+}
+.author__name {
+    font-weight: 700;
+    letter-spacing: -.01em;
+    color: #0b1220;
+}
+.author__bio {
+    color: #6b7588;
+    font-size: 14px;
+}
+.btn--inverse {
+    background: #0b1220 !important;
+    color: #fff !important;
+    border: 1px solid #0b1220 !important;
+    border-radius: 8px;
+    font-weight: 600;
+    letter-spacing: .01em;
+}
+.btn--inverse:hover {
+    background: #000 !important;
+}
+.author__urls .author__desktop {
+    color: #3a4458;
+    font-size: 13px;
+}
+.author__urls a {
+    color: #3a4458;
+    font-size: 14px;
+}
+.author__urls a:hover {
+    color: #1f4ed8;
+}
+/* Cardinal accent for institution */
+.author__urls .fa-building-columns,
+.author__urls .fa-building {
+    color: #8c2f2f !important;
+}
+/* Page heading polish */
+.page__title {
+    font-weight: 800;
+    letter-spacing: -.02em;
+    color: #0b1220;
+}
+/* Masthead clean look */
+.masthead {
+    border-bottom: 1px solid #e6e8ee !important;
+    background: rgba(255,255,255,.85) !important;
+    backdrop-filter: saturate(180%) blur(10px);
+}
+.greedy-nav .visible-links a {
+    color: #3a4458;
+    font-weight: 500;
+}
+.greedy-nav .visible-links a:before {
+    background: #1f4ed8 !important;
+}

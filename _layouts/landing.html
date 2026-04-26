@@ -1,0 +1,364 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>{{ page.title | default: site.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="{{ page.description | default: site.description }}">
+<meta name="author" content="{{ site.author.name | default: 'Fateme Nateghi' }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url | relative_url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@{{ site.author.twitter | default: 'fatemenateghi' }}">
+<meta name="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:description" content="{{ page.description | default: site.description }}">
+<meta name="twitter:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+<link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/landing.css' | relative_url }}">
+</head>
+<body>
+<nav class="top">
+  <div class="container">
+    <div class="brand">Fateme Nateghi</div>
+    <ul>
+      <li><a href="#news">News</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#talks">Talks</a></li>
+      <li><a href="#leadership">Leadership</a></li>
+      <li><a href="mailto:fnateghi@stanford.edu">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="container hero-grid">
+    <div>
+      <div class="role">Postdoctoral Researcher<span class="sep"></span><span class="stanford-mark">STANFORD UNIVERSITY</span></div>
+      <h1>I build <span class="accent">clinically reliable AI</span> for healthcare.</h1>
+      <p class="lead">Postdoc in the <a href="https://www.healthrexlab.com/">HealthRex Lab</a> at Stanford with Dr. Jonathan H. Chen, building LLMs and evaluation frameworks that hold up in real clinical settings.</p>
+      <div class="ctas">
+        <a class="btn primary" href="#research"><i class="fas fa-arrow-right"></i> See research</a>
+        <a class="btn" href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Scholar</a>
+        <a class="btn" href="https://github.com/FatemeNateghi"><i class="fab fa-github"></i> GitHub</a>
+        <a class="btn" href="mailto:fnateghi@stanford.edu"><i class="far fa-envelope"></i> Email</a>
+      </div>
+      <div class="chips">
+        <a href="https://stvp.stanford.edu/emerson-consequential-scholars-program#Year-at-a-Glance" target="_blank" class="chip" style="color:var(--ink-soft);text-decoration:none"><i class="fas fa-seedling" style="color:#8c2f2f"></i> &nbsp;Emerson Consequential Scholar · STVP</a>
+        <span class="chip">Clinical LLMs</span>
+        <span class="chip">RAG · Evaluation</span>
+        <span class="chip">Explainable AI</span>
+        <span class="chip">Survival Analysis</span>
+      </div>
+    </div>
+    <div class="photo-wrap">
+    <div class="photo">
+      <img src="{{ "/images/profile.jpg" | relative_url }}" alt="Fateme Nateghi" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+      <div class="placeholder" style="display:none">[Save your new headshot as<br><strong>profile.jpg</strong> in this folder]</div>
+    </div>
+    <div class="photo-caption">
+      <div class="name">Fateme (Fatima) Nateghi<span class="phd">, PhD</span></div>
+      <div class="alt">AI Researcher in Healthcare</div>
+    </div>
+    </div>
+  </div>
+</header>
+
+<section class="news" id="news">
+  <div class="container">
+    <h2><span>Recent Updates</span></h2>
+
+    <div class="news-banner">
+      <div class="icon"><i class="fas fa-bullhorn"></i></div>
+      <div class="body">
+        <span class="pill">Now Organizing · CFP Open</span>
+        <h3>Co-organizing the AI &amp; ML in Clinical Medicine session at PSB 2027</h3>
+        <p>Pacific Symposium on Biocomputing · Jan 3–7, 2027 · Hawai‘i &nbsp;·&nbsp; <strong>Submission deadline: Aug 3, 2026</strong> &nbsp;·&nbsp; 3rd consecutive year as co-organizer</p>
+      </div>
+      <a class="cta" href="https://psb.stanford.edu" target="_blank">Submit a paper <i class="fas fa-arrow-right" style="font-size:11px"></i></a>
+    </div>
+
+    <div class="news-list">
+      <div class="news-item">
+        <div class="date">Apr 2026</div>
+        <div class="text"><strong>Contributor</strong> to the <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">Stanford HAI AI Index Report 2026</a>, second consecutive year (also <a href="https://hai.stanford.edu/ai-index/2025-ai-index-report">2025</a>).</div>
+      </div>
+      <div class="news-item">
+        <div class="date">Apr 2026</div>
+        <div class="text"><strong>Joined STVP</strong> as an <a href="https://stvp.stanford.edu/emerson-consequential-scholars-program#Year-at-a-Glance">Emerson Consequential Scholar</a> (Feb–Jun 2026), exploring how research translates into ventures.</div>
+      </div>
+      <div class="news-item">
+        <div class="date">2026</div>
+        <div class="text"><strong>Program Committee, </strong>ECML PKDD 2026 (2nd consecutive year, also served in 2024).</div>
+      </div>
+      <div class="news-item">
+        <div class="date">Dec 2025</div>
+        <div class="text"><strong>Invited talk</strong> at Itec (KU Leuven &amp; imec), <em>Toward Trustworthy Clinical AI</em>.</div>
+      </div>
+      <div class="news-item">
+        <div class="date">Dec 2025</div>
+        <div class="text"><strong>NOHARM benchmark released</strong>, <a href="https://arxiv.org/abs/2512.01241">paper</a> &middot; <a href="https://bench.arise-ai.org">live benchmark</a>.</div>
+      </div>
+      <div class="news-item">
+        <div class="date">Nov 2025</div>
+        <div class="text">Presented <strong>SAGE</strong> at AMIA 2025 (Atlanta), AI routing of eConsults using LLMs.</div>
+      </div>
+      <div class="news-item">
+        <div class="date">Mar 2025</div>
+        <div class="text"><strong>Invited talk</strong> at the CTN Quarterly Steering Committee on MOUD retention.</div>
+      </div>
+      <div class="news-item">
+        <div class="date">2024</div>
+        <div class="text"><strong>Awarded</strong> Stanford Bio-X Interdisciplinary Seed Grant as Lead Postdoc.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="about" id="about">
+  <div class="container">
+    <h2><span>About</span></h2>
+    <div class="about-grid">
+      <div>
+        <p>Much of my current work explores how LLMs and retrieval-augmented generation can support clinical workflows, enhancing specialty consultations, answering patient messages, and post-training models so the responses are accurate, reliable, and clinically useful.</p>
+        <p>I'm also a Data Science Lead in the <a href="https://www.arise-ai.org/">ARISE network</a>, advancing open benchmarks and real-world evaluation of clinical AI systems. Before Stanford, I completed my PhD in Biomedical Sciences at KU Leuven, where I focused on semi-supervised learning for time-to-event prediction in partially labeled clinical data.</p>
+        <p style="font-size:16px;color:var(--ink);padding:18px 22px;background:#fafbff;border-left:3px solid var(--accent);border-radius:0 8px 8px 0;margin-top:24px;max-width:760px">I'm always happy to talk about clinical AI, research collaborations, or startup ideas. <a href="mailto:fnateghi@stanford.edu" style="font-weight:600">Drop me a line →</a></p>
+      </div>
+      <aside class="now-panel">
+        <div class="head"><span class="pulse"></span><h4>Currently working on</h4></div>
+        <ul>
+          <li><i class="fas fa-circle"></i><span>Leading <strong>SAGE</strong>, specialist AI for routing eConsults at Stanford Health Care.</span></li>
+          <li><i class="fas fa-circle"></i><span>Shipping <strong>NOHARM / MAST</strong> as the first open benchmark suite for clinical-LLM safety.</span></li>
+          <li><i class="fas fa-circle"></i><span>Translating clinical-AI research into ventures via <a href="https://stvp.stanford.edu/emerson-consequential-scholars-program#Year-at-a-Glance"><strong>STVP</strong></a>.</span></li>
+          <li><i class="fas fa-circle"></i><span>Mentoring Stanford CS &amp; medical students on applied LLM projects.</span></li>
+        </ul>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section id="research">
+  <div class="container">
+    <h2><span>Selected Research</span></h2>
+    <div class="papers">
+      <div class="paper">
+        <div class="thumb"><img src="{{ "/images/noharm_benchmark_fig.png" | relative_url }}" alt="" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        <div>
+          <span class="tag">Benchmark</span><span class="tag">2025</span>
+          <h3>First, Do NOHARM: Towards Clinically Safe Large Language Models</h3>
+          <div class="meta">David Wu*, <strong>Fateme Nateghi*</strong>, et al. · arXiv 2025 · *Co-first authors</div>
+          <p>A large-scale benchmark for evaluating the clinical safety of LLMs using real physician-to-physician consultation cases, the foundation of MAST (Medical AI Superintelligence Test).</p>
+          <div style="display:flex;gap:18px;flex-wrap:wrap;margin-bottom:12px;font-size:13px;color:var(--muted)">
+            <span><strong style="color:var(--ink)">100</strong> consultation cases · 10 specialties</span>
+            <span><strong style="color:var(--ink)">31</strong> LLMs evaluated</span>
+            <span><strong style="color:var(--ink)">12,747</strong> expert annotations</span>
+          </div>
+          <div class="links"><a href="https://bench.arise-ai.org">Live benchmark →</a><a href="https://arxiv.org/abs/2512.01241">Paper</a></div>
+        </div>
+      </div>
+      <div class="paper">
+        <div class="thumb"><img src="{{ "/images/sage_demo_fig.png" | relative_url }}" alt="" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        <div>
+          <span class="tag">Ongoing</span>
+          <h3>SAGE: Specialist AI for Guiding Experts</h3>
+          <div class="meta"><strong>Fateme Nateghi</strong>, Jonathan H. Chen, et al.</div>
+          <p>A retrieval-augmented system that helps primary care providers route specialty consultations and surfaces guideline-aligned recommendations during real clinical workflows.</p>
+          <div class="links"><a href="https://drive.google.com/file/d/1-YvfVZUeeRvO2mtEYy7qWq89g-cNNY5O/view" target="_blank">AMIA 2025 talk →</a></div>
+        </div>
+      </div>
+      <div class="paper">
+        <div class="thumb"><img src="{{ "/images/semi_supervised_survival_fig.png" | relative_url }}" alt="" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        <div>
+          <span class="tag">PhD work</span>
+          <h3>Semi-supervised survival analysis for partially labeled clinical data</h3>
+          <div class="meta">KU Leuven · Data-driven Healthcare group</div>
+          <p>Methods for time-to-event prediction in ICU patients when most labels are censored, improving outcome prediction without requiring fully observed follow-up.</p>
+          <div class="links"><a href="https://lirias.kuleuven.be/retrieve/fa1e286d-5039-43ae-a5e0-be349765bfe5" target="_blank">PhD Thesis (PDF) →</a></div>
+        </div>
+      </div>
+    </div>
+    <div style="margin-top:28px;text-align:center">
+      <a href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&amp;hl=en" target="_blank" style="display:inline-flex;align-items:center;gap:8px;padding:11px 22px;border:1px solid var(--line);border-radius:8px;font-weight:600;font-size:14px;color:var(--ink);text-decoration:none">View all publications on Google Scholar <i class="fas fa-arrow-right" style="font-size:11px"></i></a>
+    </div>
+  </div>
+</section>
+
+<section id="talks">
+  <div class="container">
+    <h2><span>Selected Talks</span></h2>
+    <div class="talks">
+      <div class="talk">
+        <div class="when">Dec 2025</div>
+        <div>
+          <h3>Toward Trustworthy Clinical AI: Building Safe &amp; Context-Aware Systems for Healthcare</h3>
+          <div class="venue">Itec (KU Leuven &amp; imec)</div>
+          <div class="talk-links"><a href="https://drive.google.com/file/d/1Dqh47mSgw-7uRLD1YmWT4coBB9jDJUon/view">Slides →</a></div>
+        </div>
+        <span class="type invited"><i class="fas fa-star" style="font-size:9px"></i> Invited</span>
+      </div>
+
+      <div class="talk">
+        <div class="when">Nov 2025</div>
+        <div>
+          <h3>Right Patient, Right Specialist, Right Time: AI Routing of eConsults Using Language Models</h3>
+          <div class="venue">AMIA 2025 Annual Symposium <em>· Atlanta, GA</em></div>
+          <div class="talk-links"><a href="https://drive.google.com/file/d/1-YvfVZUeeRvO2mtEYy7qWq89g-cNNY5O/view">Slides →</a></div>
+        </div>
+        <span class="type contributed">Talk</span>
+      </div>
+
+      <div class="talk">
+        <div class="when">Mar 2025</div>
+        <div>
+          <h3>Medication for Opioid Use Disorder: Predictability of Retention vs. Attrition</h3>
+          <div class="venue">CTN Quarterly Steering Committee Meeting <em>· Virtual</em></div>
+          <div class="talk-links"><a href="https://docs.google.com/presentation/d/1PEj8duu249n9P20qYpgBskXdKPUc4CK3/edit">Slides →</a></div>
+        </div>
+        <span class="type invited"><i class="fas fa-star" style="font-size:9px"></i> Invited</span>
+      </div>
+
+      <div class="talk">
+        <div class="when">Nov 2024</div>
+        <div>
+          <h3>Enhancing Antibiotic Stewardship: A Machine Learning Approach to Predicting Antibiotic Resistance in Inpatient Care</h3>
+          <div class="venue">AMIA 2024 Annual Symposium <em>· San Francisco, CA</em></div>
+          <div class="talk-links"><a href="https://docs.google.com/presentation/d/1Fql4b1N84KxwBsDSr4st6QNPwl1Bsfe5/edit">Slides →</a></div>
+        </div>
+        <span class="type contributed">Talk</span>
+      </div>
+
+      <div class="talk">
+        <div class="when">Nov 2024</div>
+        <div>
+          <h3>Predicting Treatment Retention in Buprenorphine-Naloxone Therapy Using Multi-Site EHR Data</h3>
+          <div class="venue">AMIA 2024 Annual Symposium <em>· San Francisco, CA</em></div>
+          <div class="talk-links"><a href="https://docs.google.com/presentation/d/1jZPGTVbUZ31Ii41TeWJLL4ZuSXY2nuQ-/edit">Slides →</a></div>
+        </div>
+        <span class="type contributed">Talk</span>
+      </div>
+    </div>
+    <div style="margin-top:28px;text-align:center">
+      <span style="color:var(--muted);font-size:14px">Always happy to speak about clinical AI, LLM evaluation, or trustworthy healthcare AI. </span>
+      <a href="mailto:fnateghi@stanford.edu?subject=Speaking%20invitation" style="font-weight:600;font-size:14px">Invite me to speak →</a>
+    </div>
+  </div>
+</section>
+
+<section id="leadership">
+  <div class="container">
+    <h2><span>Leadership &amp; Fellowships</span></h2>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:24px">
+      <div style="padding:24px;border:1px solid var(--line);border-radius:14px;background:#fff;transition:all .2s">
+        <div style="display:inline-flex;align-items:center;gap:8px;padding:4px 10px;border-radius:6px;background:#fdf3f3;color:#8c2f2f;font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px"><i class="fas fa-seedling"></i> Fellowship · 2026</div>
+        <h3 style="font-size:18px;margin-bottom:6px;letter-spacing:-.01em"><a href="https://stvp.stanford.edu/emerson-consequential-scholars-program#Year-at-a-Glance" target="_blank" style="color:inherit;text-decoration:none;border-bottom:1px solid currentColor">Emerson Consequential Scholar</a></h3>
+        <div style="color:var(--muted);font-size:13px;margin-bottom:10px">Stanford Technology Ventures Program (STVP)<br><span style="font-size:12.5px">Feb 2026 – Jun 2026 · Palo Alto, CA</span></div>
+        <p style="color:var(--ink-soft);font-size:14.5px">Apprenticeship-style fellowship at Stanford's entrepreneurship engine, exploring how rigorous research translates into ventures that drive consequential, real-world impact.</p>
+      </div>
+      <div style="padding:24px;border:1px solid var(--line);border-radius:14px;background:#fff;transition:all .2s">
+        <div style="display:inline-flex;align-items:center;gap:8px;padding:4px 10px;border-radius:6px;background:var(--accent-soft);color:var(--accent);font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px"><i class="fas fa-award"></i> Grant Lead · 2024</div>
+        <h3 style="font-size:18px;margin-bottom:6px;letter-spacing:-.01em">Stanford Bio-X Seed Grant</h3>
+        <div style="color:var(--muted);font-size:13px;margin-bottom:10px">Lead Postdoctoral Researcher</div>
+        <p style="color:var(--ink-soft);font-size:14.5px">Lead postdoc on <em>Enhancing Specialty Care with Digital Medical Consultations: A Retrieval-Augmented Language Model Approach</em>. PI: J. H. Chen; Co-PIs: Bernstein, Tibshirani, Goldstein.</p>
+      </div>
+      <div style="padding:24px;border:1px solid var(--line);border-radius:14px;background:#fff;transition:all .2s">
+        <div style="display:inline-flex;align-items:center;gap:8px;padding:4px 10px;border-radius:6px;background:#ecfdf5;color:#047857;font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px"><i class="fas fa-network-wired"></i> Open Network</div>
+        <h3 style="font-size:18px;margin-bottom:6px;letter-spacing:-.01em">Data Science Lead at <a href="https://www.arise-ai.org/" style="color:inherit;text-decoration:none;border-bottom:1px solid currentColor">ARISE</a></h3>
+        <div style="color:var(--muted);font-size:13px;margin-bottom:10px">Advancing Healthcare AI through Open Science</div>
+        <p style="color:var(--ink-soft);font-size:14.5px">Open research network advancing safety, reliability, and real-world evaluation of clinical AI through open benchmarks like NOHARM/MAST.</p>
+      </div>
+    </div>
+
+    <!-- Service & Reports row -->
+    <div style="margin-top:32px;display:grid;grid-template-columns:repeat(2,1fr);gap:24px">
+      <div style="padding:24px;border:1px solid var(--line);border-radius:14px;background:#fff">
+        <div style="display:inline-flex;align-items:center;gap:8px;padding:4px 10px;border-radius:6px;background:#fff7f7;color:#8c2f2f;font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px"><i class="fas fa-chart-column"></i> Annual Report · 2025 · 2026</div>
+        <h3 style="font-size:18px;margin-bottom:6px;letter-spacing:-.01em">Contributor, Stanford HAI AI Index Report</h3>
+        <div style="color:var(--muted);font-size:13px;margin-bottom:10px">2 consecutive years &middot; Stanford Institute for Human-Centered AI</div>
+        <p style="color:var(--ink-soft);font-size:14.5px">Contributing to the world's most-cited annual report on AI progress, produced by Stanford HAI.</p>
+        <div style="margin-top:12px;display:flex;gap:14px;flex-wrap:wrap;font-size:13px;font-weight:600">
+          <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">2026 Report →</a>
+          <a href="https://hai.stanford.edu/ai-index/2025-ai-index-report">2025 Report</a>
+        </div>
+      </div>
+      <div style="padding:24px;border:1px solid var(--line);border-radius:14px;background:#fff">
+        <div style="display:inline-flex;align-items:center;gap:8px;padding:4px 10px;border-radius:6px;background:var(--accent-soft);color:var(--accent);font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px"><i class="fas fa-pen-nib"></i> Service · 2024 · 2026</div>
+        <h3 style="font-size:18px;margin-bottom:6px;letter-spacing:-.01em">Program Committee, ECML PKDD</h3>
+        <div style="color:var(--muted);font-size:13px;margin-bottom:10px">European Conference on Machine Learning &amp; Principles of KDD</div>
+        <p style="color:var(--ink-soft);font-size:14.5px">Program Committee member for two editions of ECML PKDD, the premier European venue for ML and data-mining research. Reviewing submissions in clinical ML, survival analysis, and applied AI.</p>
+      </div>
+    </div>
+
+    <!-- PSB 2027 row -->
+    <div style="margin-top:24px;display:grid;grid-template-columns:1fr;gap:24px">
+      <div style="padding:28px;border:1px solid #ead4d4;border-radius:14px;background:linear-gradient(90deg,#fff7f7 0%,#fff 60%);position:relative;overflow:hidden">
+        <div style="position:absolute;top:0;left:0;width:4px;height:100%;background:#8c2f2f"></div>
+        <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:24px;flex-wrap:wrap">
+          <div style="flex:1;min-width:280px">
+            <div style="display:inline-flex;align-items:center;gap:8px;padding:4px 10px;border-radius:6px;background:#fff;border:1px solid #ead4d4;color:#8c2f2f;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-bottom:14px"><i class="fas fa-bullhorn"></i> Session Co-organizer · 2025 · 2026 · 2027</div>
+            <h3 style="font-size:19px;margin-bottom:6px;letter-spacing:-.01em">Co-organizer, AI &amp; ML in Clinical Medicine at PSB</h3>
+            <div style="color:var(--muted);font-size:13px;margin-bottom:12px">Pacific Symposium on Biocomputing · 3 consecutive years (2025, 2026, 2027) · Hawai‘i</div>
+            <p style="color:var(--ink-soft);font-size:14.5px;max-width:680px">Co-organizer of the AI &amp; ML in Clinical Medicine session at PSB for three consecutive years. This year's theme (Jan 3–7, 2027): <em>agentic AI, clinical validation, and human-AI collaboration in real-world healthcare</em>, covering agentic AI workflows, prospective clinical evaluation, LLMs in healthcare, multimodal AI, and AI safety &amp; fairness.</p>
+          </div>
+          <div style="flex-shrink:0;display:flex;flex-direction:column;gap:8px">
+            <a href="https://psb.stanford.edu" target="_blank" style="display:inline-flex;align-items:center;gap:8px;padding:10px 16px;background:#8c2f2f;color:#fff;border-radius:8px;font-weight:600;font-size:13.5px;text-decoration:none">Submit a paper <i class="fas fa-arrow-right" style="font-size:11px"></i></a>
+            <div style="font-size:12px;color:var(--muted);text-align:center">Deadline: <strong>Aug 3, 2026</strong></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="beyond" style="background:#fafbff">
+  <div class="container">
+    <h2><span>Outside the Lab</span></h2>
+    <div style="display:grid;grid-template-columns:1.4fr 1fr 1fr;grid-template-rows:repeat(2,200px);gap:14px;margin-bottom:24px">
+      <div class="beyond-tile" style="grid-row:span 2;border-radius:14px;overflow:hidden;background:#000">
+        <img src="{{ "/images/beyond/normandy.jpeg" | relative_url }}" style="width:100%;height:100%;object-fit:cover;display:block">
+        <div class="caption">Étretat, Normandy</div>
+      </div>
+      <div class="beyond-tile" style="border-radius:14px;overflow:hidden;background:#000">
+        <img src="{{ "/images/beyond/nyc_central_park.jpeg" | relative_url }}" style="width:100%;height:100%;object-fit:cover;display:block">
+        <div class="caption">New York City</div>
+      </div>
+      <div class="beyond-tile" style="border-radius:14px;overflow:hidden;background:#000">
+        <img src="{{ "/images/beyond/lady_in_the_wind.jpeg" | relative_url }}" style="width:100%;height:100%;object-fit:cover;display:block">
+        <div class="caption">Antelope Canyon, Arizona</div>
+      </div>
+      <div class="beyond-tile" style="border-radius:14px;overflow:hidden;background:#000">
+        <img src="{{ "/images/beyond/aquarium.jpeg" | relative_url }}" style="width:100%;height:100%;object-fit:cover;display:block">
+        <div class="caption">Monterey Bay Aquarium</div>
+      </div>
+      <div class="beyond-tile" style="border-radius:14px;overflow:hidden;background:#000">
+        <img src="{{ "/images/beyond/hiking2.jpeg" | relative_url }}" style="width:100%;height:100%;object-fit:cover;display:block">
+        <div class="caption">Hawai'i Volcanoes NP</div>
+      </div>
+    </div>
+    <p style="color:var(--ink-soft);font-size:15px;max-width:600px">When I'm not working on clinical AI, I'm usually traveling, hiking, or behind a camera. <a href="/beyond/">See more &rarr;</a></p>
+  </div>
+</section>
+
+<footer>
+  <div class="container row">
+    <div>© 2026 Fateme Nateghi, PhD · Stanford University</div>
+    <div class="social">
+      <a href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i></a>
+      <a href="https://github.com/FatemeNateghi"><i class="fab fa-github"></i></a>
+      <a href="https://linkedin.com/in/fateme-nateghi"><i class="fab fa-linkedin"></i></a>
+      <a href="mailto:fnateghi@stanford.edu"><i class="far fa-envelope"></i></a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
