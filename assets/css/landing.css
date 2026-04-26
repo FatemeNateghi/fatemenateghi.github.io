@@ -57,6 +57,15 @@ nav.top ul a:hover{color:var(--ink);text-decoration:none}
 .chips{margin-top:32px;display:flex;gap:8px;flex-wrap:wrap}
 .chip{background:var(--chip);color:var(--ink-soft);padding:6px 12px;border-radius:999px;font-size:13px;font-weight:500}
 
+
+/* Inline hero meta links (replaces .ctas + .chips) */
+.hero-meta{margin-top:32px;display:flex;flex-wrap:wrap;gap:14px 28px;font-family:'Inter',sans-serif;line-height:1.5}
+.hero-meta a{display:inline-flex;align-items:center;gap:8px;color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:3px;font-size:14.5px;font-weight:500;transition:all .15s;white-space:nowrap}
+.hero-meta a:hover{color:var(--accent);border-bottom-color:var(--accent);text-decoration:none}
+.hero-meta a i{color:var(--accent);font-size:13.5px;width:16px;text-align:center}
+.hero-meta a i.fa-seedling{color:#8c2f2f}
+.paper .links a i{margin-right:5px;font-size:11px;opacity:.75}
+
 /* SECTIONS */
 section{padding:72px 0;border-bottom:1px solid var(--line)}
 section h2{font-size:14px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:32px}
