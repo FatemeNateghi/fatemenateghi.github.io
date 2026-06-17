@@ -35,8 +35,8 @@
   <div class="container">
     <div class="brand">Fateme Nateghi</div>
     <ul>
-      <li><a href="#news">News</a></li>
       <li><a href="#about">About</a></li>
+      <li><a href="#news">News</a></li>
       <li><a href="#research">Research</a></li>
       <li><a href="#talks">Talks</a></li>
       <li><a href="#leadership">Leadership</a></li>
@@ -74,6 +74,28 @@
   </div>
 </header>
 
+<section class="about" id="about">
+  <div class="container">
+    <h2><span>About</span></h2>
+    <div class="about-grid">
+      <div>
+        <p>Much of my current work explores how LLMs and retrieval-augmented generation can support clinical workflows, enhancing specialty consultations, answering patient messages, and post-training models so the responses are accurate, reliable, and clinically useful.</p>
+        <p>I'm also a Data Science Lead in the <a href="https://www.arise-ai.org/">ARISE network</a>, advancing open benchmarks and real-world evaluation of clinical AI systems. Before Stanford, I completed my PhD in Biomedical Sciences at KU Leuven, where I focused on semi-supervised learning for time-to-event prediction in partially labeled clinical data.</p>
+        <p style="font-size:16px;color:var(--ink);padding:18px 22px;background:#fafbff;border-left:3px solid var(--accent);border-radius:0 8px 8px 0;margin-top:24px;max-width:760px">I'm always happy to talk about clinical AI, research collaborations, or startup ideas. <a href="mailto:fnateghi@stanford.edu" style="font-weight:600">Drop me a line →</a></p>
+      </div>
+      <aside class="now-panel">
+        <div class="head"><span class="pulse"></span><h4>Currently working on</h4></div>
+        <ul>
+          <li><i class="fas fa-circle"></i><span>Leading <strong>SAGE</strong>, specialist AI for routing eConsults at Stanford Health Care.</span></li>
+          <li><i class="fas fa-circle"></i><span>Shipping <strong>NOHARM / MAST</strong> as the first open benchmark suite for clinical-LLM safety.</span></li>
+          <li><i class="fas fa-circle"></i><span>Translating clinical-AI research into ventures via <a href="https://stvp.stanford.edu/emerson-consequential-scholars-program#Year-at-a-Glance"><strong>STVP</strong></a>.</span></li>
+          <li><i class="fas fa-circle"></i><span>Mentoring Stanford CS &amp; medical students on applied LLM projects.</span></li>
+        </ul>
+      </aside>
+    </div>
+  </div>
+</section>
+
 <section class="news" id="news">
   <div class="container">
     <h2><span>Recent Updates</span></h2>
@@ -107,7 +129,7 @@
       </div>
       <div class="news-item">
         <div class="date">Dec 2025</div>
-        <div class="text"><strong>NOHARM benchmark released</strong>, <a href="https://arxiv.org/abs/2512.01241">paper</a> &middot; <a href="https://bench.arise-ai.org">live benchmark</a>.</div>
+        <div class="text"><strong>NOHARM benchmark released</strong>, part of the <a href="https://arise-ai.org/mast">MAST</a> suite. <a href="https://arxiv.org/abs/2512.01241">Paper</a> &middot; <a href="https://arise-ai.org/mast/technical/demos/donoharm.html?theme=stripe">how it works</a> &middot; <a href="https://arise-ai.org/mast/technical">leaderboard</a>.</div>
       </div>
       <div class="news-item">
         <div class="date">Nov 2025</div>
@@ -129,28 +151,6 @@
   </div>
 </section>
 
-<section class="about" id="about">
-  <div class="container">
-    <h2><span>About</span></h2>
-    <div class="about-grid">
-      <div>
-        <p>Much of my current work explores how LLMs and retrieval-augmented generation can support clinical workflows, enhancing specialty consultations, answering patient messages, and post-training models so the responses are accurate, reliable, and clinically useful.</p>
-        <p>I'm also a Data Science Lead in the <a href="https://www.arise-ai.org/">ARISE network</a>, advancing open benchmarks and real-world evaluation of clinical AI systems. Before Stanford, I completed my PhD in Biomedical Sciences at KU Leuven, where I focused on semi-supervised learning for time-to-event prediction in partially labeled clinical data.</p>
-        <p style="font-size:16px;color:var(--ink);padding:18px 22px;background:#fafbff;border-left:3px solid var(--accent);border-radius:0 8px 8px 0;margin-top:24px;max-width:760px">I'm always happy to talk about clinical AI, research collaborations, or startup ideas. <a href="mailto:fnateghi@stanford.edu" style="font-weight:600">Drop me a line →</a></p>
-      </div>
-      <aside class="now-panel">
-        <div class="head"><span class="pulse"></span><h4>Currently working on</h4></div>
-        <ul>
-          <li><i class="fas fa-circle"></i><span>Leading <strong>SAGE</strong>, specialist AI for routing eConsults at Stanford Health Care.</span></li>
-          <li><i class="fas fa-circle"></i><span>Shipping <strong>NOHARM / MAST</strong> as the first open benchmark suite for clinical-LLM safety.</span></li>
-          <li><i class="fas fa-circle"></i><span>Translating clinical-AI research into ventures via <a href="https://stvp.stanford.edu/emerson-consequential-scholars-program#Year-at-a-Glance"><strong>STVP</strong></a>.</span></li>
-          <li><i class="fas fa-circle"></i><span>Mentoring Stanford CS &amp; medical students on applied LLM projects.</span></li>
-        </ul>
-      </aside>
-    </div>
-  </div>
-</section>
-
 <section id="research">
   <div class="container">
     <h2><span>Selected Research</span></h2>
@@ -158,16 +158,16 @@
       <div class="paper">
         <div class="thumb"><img src="{{ "/images/noharm_benchmark_fig.png" | relative_url }}" alt="" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div>
-          <span class="tag">Benchmark</span><span class="tag">2025</span>
+          <span class="tag">Benchmark</span><span class="tag">2026</span>
           <h3>First, Do NOHARM: Towards Clinically Safe Large Language Models</h3>
-          <div class="meta">David Wu*, <strong>Fateme Nateghi*</strong>, et al. · arXiv 2025 · *Co-first authors</div>
+          <div class="meta">David Wu*, <strong>Fateme Nateghi*</strong>, et al. · arXiv 2026 · *Co-first authors</div>
           <p>A large-scale benchmark for evaluating the clinical safety of LLMs using real physician-to-physician consultation cases, the foundation of MAST (Medical AI Superintelligence Test).</p>
           <div style="display:flex;gap:18px;flex-wrap:wrap;margin-bottom:12px;font-size:13px;color:var(--muted)">
-            <span><strong style="color:var(--ink)">100</strong> consultation cases · 10 specialties</span>
-            <span><strong style="color:var(--ink)">31</strong> LLMs evaluated</span>
-            <span><strong style="color:var(--ink)">12,747</strong> expert annotations</span>
+            <span><strong style="color:var(--ink)">100</strong> cases + <strong style="color:var(--ink)">1,000</strong> perturbed variants · 10 specialties</span>
+            <span><strong style="color:var(--ink)">28</strong> LLMs evaluated</span>
+            <span><strong style="color:var(--ink)">12,747</strong> expert annotations by 29 physicians</span>
           </div>
-          <div class="links"><a href="https://bench.arise-ai.org"><i class="fas fa-shield-halved"></i> Live benchmark →</a><a href="https://arxiv.org/abs/2512.01241"><i class="fas fa-file-lines"></i> Paper</a></div>
+          <div class="links"><a href="https://arxiv.org/abs/2512.01241" target="_blank"><i class="fas fa-file-lines"></i> Paper →</a><a href="https://arise-ai.org/mast/technical/demos/donoharm.html?theme=stripe" target="_blank"><i class="fas fa-circle-info"></i> How NOHARM works</a><a href="https://arise-ai.org/mast" target="_blank"><i class="fas fa-shield-halved"></i> MAST benchmark suite</a><a href="https://arise-ai.org/mast/technical" target="_blank"><i class="fas fa-trophy"></i> Live leaderboard</a></div>
         </div>
       </div>
             <div class="paper">
