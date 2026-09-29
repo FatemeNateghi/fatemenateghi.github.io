@@ -40,6 +40,27 @@ You can also find my full list of papers on
 
 <table><tr>
 <td width="35%">
+  <img src="/images/armd_predict_fig.png" width="100%" style="border-radius: 8px;">
+</td>
+<td style="padding-left: 20px;">
+  <strong style="color:#1a3e5f; font-size: 20px;">
+    ARMD-Predict: Multi-Site Machine Learning to Predict Antibiotic Resistance Before Culture Results
+  </strong><br>
+  <strong>Fateme Nateghi Haredasht*</strong>, N. Marshall*, Jonathan H. Chen, et al.<br>
+  <em>Under review, 2026</em><br>
+  <span style="font-size: 14px; color:#666;">*Co-first authors</span><br>
+  <a href="https://armd-predict.com" target="_blank">[Live Web App]</a>
+  <!-- TODO: add when ready: <a href="ARXIV_URL" target="_blank">[Paper]</a> / <a href="GITHUB_URL" target="_blank">[GitHub]</a> --><br><br>
+
+  Machine-learning models that estimate antibiotic resistance from routine EHR and microbiology data before culture results return, developed with data from four U.S. academic medical centers. Available as a public web tool: an Empiric Antibiotic Check that flags when an empiric antibiotic may need an alternative, and a Personalized Antibiogram that predicts the likely organism and its susceptibilities.
+</td>
+</tr></table>
+
+<hr>
+
+
+<table><tr>
+<td width="35%">
   <img src="/images/sage_demo_fig.png" width="100%" style="border-radius: 8px;">
 </td>
 <td style="padding-left: 20px;">

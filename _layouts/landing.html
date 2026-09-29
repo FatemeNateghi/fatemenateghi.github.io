@@ -88,6 +88,7 @@
         <ul>
           <li><i class="fas fa-circle"></i><span>Leading <strong>SAGE</strong>, specialist AI for routing eConsults at Stanford Health Care.</span></li>
           <li><i class="fas fa-circle"></i><span>Shipping <strong>NOHARM / MAST</strong> as the first open benchmark suite for clinical-LLM safety.</span></li>
+          <li><i class="fas fa-circle"></i><span>Building <strong>ARMD-Predict</strong>, a multi-site tool that predicts antibiotic resistance before culture results are available.</span></li>
           <li><i class="fas fa-circle"></i><span>Translating clinical-AI research into ventures via <a href="https://stvp.stanford.edu/emerson-consequential-scholars-program#Year-at-a-Glance"><strong>STVP</strong></a>.</span></li>
           <li><i class="fas fa-circle"></i><span>Mentoring Stanford CS &amp; medical students on applied LLM projects.</span></li>
         </ul>
@@ -100,17 +101,11 @@
   <div class="container">
     <h2><span>Recent Updates</span></h2>
 
-    <div class="news-banner">
-      <div class="icon"><i class="fas fa-bullhorn"></i></div>
-      <div class="body">
-        <span class="pill">Now Organizing · CFP Open</span>
-        <h3>Co-organizing the AI &amp; ML in Clinical Medicine session at PSB 2027</h3>
-        <p>Pacific Symposium on Biocomputing · Jan 3–7, 2027 · Hawai‘i &nbsp;·&nbsp; <strong>Submission deadline: Aug 3, 2026</strong> &nbsp;·&nbsp; 3rd consecutive year as co-organizer</p>
-      </div>
-      <a class="cta" href="https://psb.stanford.edu/callfor/papers/ai/" target="_blank">Submit a paper <i class="fas fa-arrow-right" style="font-size:11px"></i></a>
-    </div>
-
     <div class="news-list">
+      <div class="news-item">
+        <div class="date">Sep 2026</div>
+        <div class="text"><strong>Launched ARMD-Predict</strong>, a public web tool that predicts antibiotic resistance before culture results, built with data from four U.S. academic medical centers. <a href="https://armd-predict.com">Try it</a>.</div>
+      </div>
       <div class="news-item">
         <div class="date">Apr 2026</div>
         <div class="text"><strong>Contributor</strong> to the <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">Stanford HAI AI Index Report 2026</a>, second consecutive year (also <a href="https://hai.stanford.edu/ai-index/2025-ai-index-report">2025</a>).</div>
@@ -133,11 +128,11 @@
       </div>
       <div class="news-item">
         <div class="date">Nov 2025</div>
+        <div class="text">Presented <strong>SAGE</strong> at AMIA 2025 (Atlanta), AI routing of eConsults using LLMs.</div>
+      </div>
       <div class="news-item">
         <div class="date">Aug 2025</div>
         <div class="text">Launched an <strong><a href="https://bupnal-attrition-predictor-elfr.onrender.com/">interactive demo</a></strong> for predicting OUD treatment retention with LLM-augmented EHR features (<a href="https://doi.org/10.1093/jamia/ocaf157"><i class="fas fa-file-lines"></i> JAMIA 2025</a>).</div>
-      </div>
-        <div class="text">Presented <strong>SAGE</strong> at AMIA 2025 (Atlanta), AI routing of eConsults using LLMs.</div>
       </div>
       <div class="news-item">
         <div class="date">Mar 2025</div>
@@ -168,6 +163,21 @@
             <span><strong style="color:var(--ink)">12,747</strong> expert annotations by 29 physicians</span>
           </div>
           <div class="links"><a href="https://arxiv.org/abs/2512.01241" target="_blank"><i class="fas fa-file-lines"></i> Paper →</a><a href="https://arise-ai.org/mast/technical/demos/donoharm.html?theme=stripe" target="_blank"><i class="fas fa-circle-info"></i> How NOHARM works</a><a href="https://arise-ai.org/mast" target="_blank"><i class="fas fa-shield-halved"></i> MAST benchmark suite</a><a href="https://arise-ai.org/mast/technical" target="_blank"><i class="fas fa-trophy"></i> Live leaderboard</a></div>
+        </div>
+      </div>
+      <div class="paper">
+        <div class="thumb"><img src="/images/armd_predict_fig.png" alt="" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        <div>
+          <span class="tag">Clinical AI tool</span><span class="tag">2026</span>
+          <h3>ARMD-Predict: Multi-Site Machine Learning to Predict Antibiotic Resistance Before Culture Results</h3>
+          <div class="meta"><strong>Fateme Nateghi Haredasht*</strong>, N. Marshall*, Jonathan H. Chen, et al. · Under review, 2026 · *Co-first authors</div>
+          <p>Machine-learning models that estimate antibiotic resistance from routine EHR and microbiology data before culture results return, developed with data from four U.S. academic medical centers. Available as a public web tool: an Empiric Antibiotic Check that flags when an empiric antibiotic may need an alternative, and a Personalized Antibiogram that predicts the likely organism and its susceptibilities.</p>
+          <div style="display:flex;gap:18px;flex-wrap:wrap;margin-bottom:12px;font-size:13px;color:var(--muted)">
+            <span><strong style="color:var(--ink)">4</strong> U.S. academic medical centers</span>
+            <span><strong style="color:var(--ink)">~7.5M</strong> culture–antibiotic observations</span>
+            <span><strong style="color:var(--ink)">Local antibiogram</strong> upload to tailor estimates</span>
+          </div>
+          <div class="links"><a href="https://armd-predict.com" target="_blank"><i class="fas fa-play"></i> Live web app →</a><!-- TODO: add when ready: <a href="ARXIV_URL" target="_blank"><i class="fas fa-file-alt"></i> Paper →</a> <a href="GITHUB_URL" target="_blank"><i class="fab fa-github"></i> Code →</a> --></div>
         </div>
       </div>
             <div class="paper">
@@ -332,10 +342,6 @@
             <h3 style="font-size:19px;margin-bottom:6px;letter-spacing:-.01em">Co-organizer, AI &amp; ML in Clinical Medicine at PSB</h3>
             <div style="color:var(--muted);font-size:13px;margin-bottom:12px">Pacific Symposium on Biocomputing · 3 consecutive years (2025, 2026, 2027) · Hawai‘i</div>
             <p style="color:var(--ink-soft);font-size:14.5px;max-width:680px">Co-organizer of the AI &amp; ML in Clinical Medicine session at PSB for three consecutive years. This year's theme (Jan 3–7, 2027): <em>agentic AI, clinical validation, and human-AI collaboration in real-world healthcare</em>, covering agentic AI workflows, prospective clinical evaluation, LLMs in healthcare, multimodal AI, and AI safety &amp; fairness.</p>
-          </div>
-          <div style="flex-shrink:0;display:flex;flex-direction:column;gap:8px">
-            <a href="https://psb.stanford.edu/callfor/papers/ai/" target="_blank" style="display:inline-flex;align-items:center;gap:8px;padding:10px 16px;background:#8c2f2f;color:#fff;border-radius:8px;font-weight:600;font-size:13.5px;text-decoration:none">Submit a paper <i class="fas fa-arrow-right" style="font-size:11px"></i></a>
-            <div style="font-size:12px;color:var(--muted);text-align:center">Deadline: <strong>Aug 3, 2026</strong></div>
           </div>
         </div>
       </div>
