@@ -141,7 +141,7 @@ You can also find my full list of papers on
   <em><strong>Addiction</strong>, 2024</em><br>
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/add.16587">[Paper]</a> /
   <a href="https://github.com/HealthRex/CDSS/tree/master/scripts/OUDTreatmentRetentionVSAttrition">[GitHub]</a> /
-  <a href="https://bupnal-attrition-predictor-elfr.onrender.com/">[WebApp]</a>
+  <a href="https://bupnal-retention.com/">[WebApp]</a>
 </td>
 </tr></table>
 
