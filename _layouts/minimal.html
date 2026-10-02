@@ -1,0 +1,226 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>{{ page.title | default: site.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="{{ page.description | default: site.description }}">
+<meta name="author" content="{{ site.author.name | default: 'Fateme Nateghi' }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url | relative_url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:description" content="{{ page.description | default: site.description }}">
+<meta name="twitter:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+<link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/minimal.css' | relative_url }}">
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b8a956f0331c408ea478027e1f82caed"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</head>
+<body>
+
+<nav class="top">
+  <div class="wrap">
+    <div class="brand">Fateme Nateghi</div>
+    <ul>
+      <li><a href="#research">research</a></li>
+      <li><a href="#publications">publications</a></li>
+      <li><a href="#talks">talks</a></li>
+      <li><a href="#service">service</a></li>
+      <li><a href="mailto:fnateghi@stanford.edu">contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main>
+<div class="wrap">
+  <header class="intro" id="about">
+    <div>
+      <h1>Fateme (Fatima) Nateghi</h1>
+      <div class="role">Postdoctoral Researcher · Stanford University · PhD, KU Leuven</div>
+      <p>Postdoc in the <a href="https://www.healthrexlab.com/">HealthRex Lab</a> at Stanford with Dr. Jonathan H. Chen, building <strong>LLMs and evaluation frameworks that hold up in real clinical settings</strong>.</p>
+      <p>I'm also a Data Science Lead in the <a href="https://www.arise-ai.org/">ARISE network</a>, advancing open benchmarks and real-world evaluation of clinical AI systems. Before Stanford, I completed my PhD in Biomedical Sciences at KU Leuven, where I focused on semi-supervised learning for time-to-event prediction in partially labeled clinical data.</p>
+      <div class="links-row">
+        <a href="mailto:fnateghi@stanford.edu"><i class="far fa-envelope"></i>email</a>
+        <a href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&amp;hl=en" target="_blank"><i class="fas fa-graduation-cap"></i>scholar</a>
+        <a href="https://github.com/FatemeNateghi" target="_blank"><i class="fab fa-github"></i>github</a>
+        <a href="https://linkedin.com/in/fateme-nateghi" target="_blank"><i class="fab fa-linkedin"></i>linkedin</a>
+        <a href="https://profiles.stanford.edu/fateme-nateghi-haredasht" target="_blank"><i class="fas fa-building-columns"></i>stanford profile</a>
+      </div>
+    </div>
+    <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Fateme Nateghi">
+  </header>
+</div>
+
+<section id="research">
+  <div class="wrap">
+    <h2>Research</h2>
+
+    <div class="proj">
+      <img class="logo" src="{{ '/images/logos/noharm.svg' | relative_url }}" alt="NOHARM logo">
+      <div>
+        <h3>NOHARM</h3>
+        <div class="sub">First, Do NOHARM: Towards Clinically Safe Large Language Models</div>
+        <div class="meta">D. Wu*, F. Nateghi*, et al. · arXiv 2026 · *co-first</div>
+        <p>A large-scale benchmark for evaluating the clinical safety of LLMs using real physician-to-physician consultation cases, the foundation of MAST (Medical AI Superintelligence Test).</p>
+        <div class="chips">
+          <a href="https://arxiv.org/abs/2512.01241" target="_blank"><i class="fas fa-file-lines"></i>arxiv</a>
+          <a href="https://arise-ai.org/mast/technical/demos/donoharm.html?theme=stripe" target="_blank"><i class="fas fa-circle-info"></i>how it works</a>
+          <a href="https://arise-ai.org/mast" target="_blank"><i class="fas fa-layer-group"></i>MAST suite</a>
+          <a href="https://arise-ai.org/mast/technical" target="_blank"><i class="fas fa-trophy"></i>leaderboard</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="proj">
+      <img class="logo" src="{{ '/images/logos/armd.svg' | relative_url }}" alt="ARMD-Predict logo">
+      <div>
+        <h3>ARMD-Predict</h3>
+        <div class="sub">Multi-Site Machine Learning to Predict Antibiotic Resistance Before Culture Results</div>
+        <div class="meta">F. Nateghi Haredasht*, N. Marshall*, J. H. Chen, et al. · under review 2026 · *co-first</div>
+        <p>Machine-learning models that estimate antibiotic resistance from routine EHR and microbiology data before culture results return, developed with data from four U.S. academic medical centers.</p>
+        <div class="chips">
+          <a href="https://armd-predict.com" target="_blank"><i class="fas fa-play"></i>web app</a>
+          <!-- TODO: add when ready:
+          <a href="ARXIV_URL" target="_blank"><i class="fas fa-file-lines"></i>arxiv</a>
+          <a href="GITHUB_URL" target="_blank"><i class="fab fa-github"></i>code</a>
+          -->
+        </div>
+      </div>
+    </div>
+
+    <div class="proj">
+      <img class="logo" src="{{ '/images/logos/sage.svg' | relative_url }}" alt="SAGE logo">
+      <div>
+        <h3>SAGE</h3>
+        <div class="sub">Specialist AI for Guiding Experts</div>
+        <div class="meta">F. Nateghi, J. H. Chen, et al. · ongoing</div>
+        <p>A retrieval-augmented system that helps primary care providers route specialty consultations and surfaces guideline-aligned recommendations during real clinical workflows.</p>
+        <div class="chips">
+          <a href="https://sage.arise-ai.org/" target="_blank"><i class="fas fa-play"></i>website</a>
+          <a href="https://github.com/HealthRex/CDSS/tree/master/scripts/eConsult" target="_blank"><i class="fab fa-github"></i>code</a>
+          <a href="https://www.medrxiv.org/content/10.1101/2025.08.14.25332839v1" target="_blank"><i class="fas fa-file-lines"></i>medRxiv 2025</a>
+          <a href="https://arxiv.org/abs/2508.01159" target="_blank"><i class="fas fa-file-lines"></i>arxiv 2025</a>
+          <a href="https://drive.google.com/file/d/1-YvfVZUeeRvO2mtEYy7qWq89g-cNNY5O/view" target="_blank"><i class="far fa-file-powerpoint"></i>AMIA 2025 talk</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="proj">
+      <img class="logo" src="{{ '/images/logos/bupnal.svg' | relative_url }}" alt="Bup-Nal Retention logo">
+      <div>
+        <h3>Bup-Nal Retention</h3>
+        <div class="sub">Predicting treatment retention in medication for opioid use disorder</div>
+        <div class="meta">F. Nateghi Haredasht, et al. · JAMIA 2025 · Addiction 2024</div>
+        <p>Combining structured EHR data with LLM-extracted features from clinical notes to predict 6-month retention in buprenorphine-naloxone therapy, with an open web tool for risk stratification.</p>
+        <div class="chips">
+          <a href="https://bupnal-retention.com/" target="_blank"><i class="fas fa-play"></i>web app</a>
+          <a href="https://doi.org/10.1093/jamia/ocaf157" target="_blank"><i class="fas fa-file-lines"></i>JAMIA 2025</a>
+          <a href="https://doi.org/10.1111/add.16587" target="_blank"><i class="fas fa-file-lines"></i>Addiction 2024</a>
+          <a href="https://github.com/HealthRex/CDSS/tree/master/scripts/OUDTreatmentRetentionVSAttrition" target="_blank"><i class="fab fa-github"></i>code</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="proj">
+      <img class="logo" src="{{ '/images/logos/phd.svg' | relative_url }}" alt="Semi-supervised survival logo">
+      <div>
+        <h3>Semi-supervised survival analysis</h3>
+        <div class="sub">PhD work · KU Leuven</div>
+        <div class="meta">F. Nateghi, C. Vens · Machine Learning 2022 · Scientific Reports 2023</div>
+        <p>Methods for time-to-event prediction when most labels are censored, improving outcome prediction without requiring fully observed follow-up.</p>
+        <div class="chips">
+          <a href="https://lirias.kuleuven.be/retrieve/fa1e286d-5039-43ae-a5e0-be349765bfe5" target="_blank"><i class="fas fa-book"></i>thesis</a>
+          <a href="https://link.springer.com/article/10.1007/s10994-022-06257-x" target="_blank"><i class="fas fa-file-lines"></i>Machine Learning 2022</a>
+          <a href="https://github.com/FatemeNateghi/semi-supervised-survival" target="_blank"><i class="fab fa-github"></i>code</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="publications">
+  <div class="wrap">
+    <h2>Selected publications</h2>
+    <ul class="pubs">
+      <li><span class="a">D. Wu*, <b>F. Nateghi*</b>, et al.</span> <span class="t">First, Do NOHARM: Towards Clinically Safe Large Language Models.</span> <span class="v">arXiv, 2026.</span><span class="l"><a href="https://arxiv.org/abs/2512.01241">[arxiv]</a></span></li>
+      <li><span class="a"><b>F. Nateghi Haredasht</b>, I. Lopez, S. Tate, et al.</span> <span class="t">Predicting treatment retention in medication for opioid use disorder: a machine learning approach using NLP and LLM-derived clinical features.</span> <span class="v">JAMIA, 2025.</span><span class="l"><a href="https://doi.org/10.1093/jamia/ocaf157">[paper]</a><a href="https://bupnal-retention.com/">[web app]</a></span></li>
+      <li><span class="a">W. Chen, <b>F. Nateghi</b>, K.C. Black, F. Grolleau, E. Alsentzer, J.H. Chen, et al.</span> <span class="t">Retrieval-Augmented Guardrails for AI-Drafted Patient-Portal Messages: Error Taxonomy Construction and Large-Scale Evaluation.</span> <span class="v">arXiv, 2025.</span><span class="l"><a href="https://arxiv.org/abs/2509.22565">[arxiv]</a></span></li>
+      <li><span class="a">DJH Wu*, <b>F. Nateghi*</b>, D Wu, V Ravi, LG McCoy, Y Weng, K Chopra, JH Chen.</span> <span class="t">Automated Evaluation of Large Language Model Response Concordance with Human Specialist Responses on Physician-to-Physician eConsult Cases.</span> <span class="v">medRxiv, 2025.</span><span class="l"><a href="https://www.medrxiv.org/content/10.1101/2025.08.14.25332839v1">[paper]</a></span></li>
+      <li><span class="a">LG McCoy*, <b>F. Nateghi*</b>, K Chopra, D Wu, DJH Wu, A Conteh, JH Chen.</span> <span class="t">Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates.</span> <span class="v">arXiv, 2025.</span><span class="l"><a href="https://arxiv.org/abs/2508.01159">[arxiv]</a></span></li>
+      <li><span class="a">S. Bedi, ..., <b>F. Nateghi</b>, J.H. Chen, N.H. Shah, et al.</span> <span class="t">MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks.</span> <span class="v">arXiv, 2025.</span><span class="l"><a href="https://arxiv.org/abs/2505.23802">[arxiv]</a><a href="https://crfm.stanford.edu/helm/medhelm/latest/#/">[benchmark]</a></span></li>
+      <li><span class="a">I. Lopez, A. Swaminathan, K. Vedula, S. Narayanan, <b>F. Nateghi</b>.</span> <span class="t">Clinical Entity-Augmented Retrieval for Clinical Information Extraction (CLEAR).</span> <span class="v">npj Digital Medicine, 2025.</span><span class="l"><a href="https://www.nature.com/articles/s41746-024-01377-1">[paper]</a><a href="https://github.com/FatemeNateghi/clear">[code]</a></span></li>
+      <li><span class="a">I. Lopez, <b>F. Nateghi</b>, K. Caoili, J.H. Chen, A. Chaudhari.</span> <span class="t">Embedding-Driven Diversity Sampling to Improve Few-Shot Synthetic Data Generation.</span> <span class="v">arXiv, 2025.</span><span class="l"><a href="https://arxiv.org/abs/2501.11199">[arxiv]</a></span></li>
+      <li><span class="a">P. Ashtari, S. Noei, <b>F. Nateghi</b>, J.H. Chen, G. Jurman, A. Pizurica.</span> <span class="t">Deconver: A Deconvolutional Network for Medical Image Segmentation.</span> <span class="v">arXiv, 2025.</span><span class="l"><a href="https://arxiv.org/pdf/2504.00302">[arxiv]</a><a href="https://github.com/FatemeNateghi/deconver">[code]</a></span></li>
+      <li><span class="a"><b>F. Nateghi</b>, S. Fouladvand, S. Tate, et al.</span> <span class="t">A Multi-Site Machine Learning Model for Predicting Treatment Retention in Opioid Use Disorder.</span> <span class="v">Addiction, 2024.</span><span class="l"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/add.16587">[paper]</a><a href="https://github.com/HealthRex/CDSS/tree/master/scripts/OUDTreatmentRetentionVSAttrition">[code]</a></span></li>
+      <li><span class="a">P. Ashtari, P. Behmandpoor, <b>F. Nateghi</b>, J.H. Chen, P. Patrinos.</span> <span class="t">Quantization-Free Lossy Image Compression Using Integer Matrix Factorization.</span> <span class="v">arXiv, 2024.</span><span class="l"><a href="https://arxiv.org/abs/2408.12691">[arxiv]</a><a href="https://github.com/FatemeNateghi/lrf">[code]</a></span></li>
+      <li><span class="a"><b>F. Nateghi</b>, L. Viaene, H. Pottel, W. De Corte, C. Vens.</span> <span class="t">Predicting Outcomes of Acute Kidney Injury Using Machine Learning.</span> <span class="v">Scientific Reports, 2023.</span><span class="l"><a href="https://www.nature.com/articles/s41598-023-36782-1">[paper]</a></span></li>
+      <li><span class="a"><b>F. Nateghi</b>, C. Vens.</span> <span class="t">Predicting Survival Outcomes in the Presence of Unlabeled Data.</span> <span class="v">Machine Learning, 2022.</span><span class="l"><a href="https://link.springer.com/article/10.1007/s10994-022-06257-x">[paper]</a><a href="https://github.com/FatemeNateghi/semi-supervised-survival">[code]</a></span></li>
+      <li><span class="a">P. Ashtari, <b>F. Nateghi</b>, H. Beigy.</span> <span class="t">Supervised Fuzzy Partitioning.</span> <span class="v">Pattern Recognition, 2020.</span><span class="l"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320319303164">[paper]</a></span></li>
+    </ul>
+    <a class="more" href="https://scholar.google.com/citations?user=qg4JyOkAAAAJ&amp;hl=en" target="_blank">full list on Google Scholar →</a>
+  </div>
+</section>
+
+<section id="talks">
+  <div class="wrap">
+    <h2>Selected talks</h2>
+    <ul class="rows">
+      <li><span class="when">Dec 2025</span><span><span class="what">Toward Trustworthy Clinical AI: Building Safe &amp; Context-Aware Systems for Healthcare</span> <span class="where">· Itec (KU Leuven &amp; imec), invited</span><span class="l"><a href="https://drive.google.com/file/d/1Dqh47mSgw-7uRLD1YmWT4coBB9jDJUon/view">[slides]</a></span></span></li>
+      <li><span class="when">Nov 2025</span><span><span class="what">Right Patient, Right Specialist, Right Time: AI Routing of eConsults Using Language Models</span> <span class="where">· AMIA 2025, Atlanta</span><span class="l"><a href="https://drive.google.com/file/d/1-YvfVZUeeRvO2mtEYy7qWq89g-cNNY5O/view">[slides]</a></span></span></li>
+      <li><span class="when">Mar 2025</span><span><span class="what">Medication for Opioid Use Disorder: Predictability of Retention vs. Attrition</span> <span class="where">· CTN Steering Committee, invited</span><span class="l"><a href="https://docs.google.com/presentation/d/1PEj8duu249n9P20qYpgBskXdKPUc4CK3/edit">[slides]</a></span></span></li>
+      <li><span class="when">Nov 2024</span><span><span class="what">Enhancing Antibiotic Stewardship: A Machine Learning Approach to Predicting Antibiotic Resistance in Inpatient Care</span> <span class="where">· AMIA 2024, San Francisco</span><span class="l"><a href="https://docs.google.com/presentation/d/1Fql4b1N84KxwBsDSr4st6QNPwl1Bsfe5/edit">[slides]</a></span></span></li>
+      <li><span class="when">Nov 2024</span><span><span class="what">Predicting Treatment Retention in Buprenorphine-Naloxone Therapy Using Multi-Site EHR Data</span> <span class="where">· AMIA 2024, San Francisco</span><span class="l"><a href="https://docs.google.com/presentation/d/1jZPGTVbUZ31Ii41TeWJLL4ZuSXY2nuQ-/edit">[slides]</a></span></span></li>
+    </ul>
+  </div>
+</section>
+
+<section id="service">
+  <div class="wrap">
+    <h2>Roles &amp; service</h2>
+    <ul class="rows">
+      <li><span class="when">now</span><span><span class="what">Data Science Lead, <a href="https://www.arise-ai.org/">ARISE</a></span> <span class="where">· open benchmarks and real-world evaluation of clinical AI</span></span></li>
+      <li><span class="when">2026</span><span><span class="what"><a href="https://stvp.stanford.edu/emerson-consequential-scholars-program#Year-at-a-Glance">Emerson Consequential Scholar</a>, Stanford Technology Ventures Program</span> <span class="where">· Feb–Jun 2026</span></span></li>
+      <li><span class="when">2025–2027</span><span><span class="what">Co-organizer, AI &amp; ML in Clinical Medicine session, <a href="https://psb.stanford.edu/callfor/papers/ai/">PSB</a></span> <span class="where">· 2025, 2026, 2027</span></span></li>
+      <li><span class="when">2025–2026</span><span><span class="what">Contributor, Stanford HAI AI Index Report</span> <span class="where">·</span><span class="l"><a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">[2026]</a><a href="https://hai.stanford.edu/ai-index/2025-ai-index-report">[2025]</a></span></span></li>
+      <li><span class="when">2024, 2026</span><span><span class="what">Program Committee, ECML PKDD</span></span></li>
+      <li><span class="when">2024</span><span><span class="what">Lead postdoc, Stanford Bio-X Seed Grant</span> <span class="where">· <em>Enhancing Specialty Care with Digital Medical Consultations: A Retrieval-Augmented Language Model Approach</em></span></span></li>
+    </ul>
+  </div>
+</section>
+
+<section id="beyond">
+  <div class="wrap">
+    <h2>Outside the lab</h2>
+    <div class="strip">
+      <img src="{{ '/images/beyond/normandy.jpeg' | relative_url }}" alt="Étretat, Normandy">
+      <img src="{{ '/images/beyond/lady_in_the_wind.jpeg' | relative_url }}" alt="Antelope Canyon, Arizona">
+      <img src="{{ '/images/beyond/aquarium.jpeg' | relative_url }}" alt="Georgia Aquarium, Atlanta">
+      <img src="{{ '/images/beyond/nyc_central_park.jpeg' | relative_url }}" alt="New York City">
+      <img src="{{ '/images/beyond/hiking2.jpeg' | relative_url }}" alt="Hawai'i Volcanoes NP">
+    </div>
+    <p class="small">When I'm not working on clinical AI, I'm usually traveling, hiking, or behind a camera. <a href="/beyond/">See more →</a></p>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>© 2026 Fateme Nateghi · Stanford University</div>
+    <div><a href="mailto:fnateghi@stanford.edu">fnateghi@stanford.edu</a></div>
+  </div>
+</footer>
+</body>
+</html>
