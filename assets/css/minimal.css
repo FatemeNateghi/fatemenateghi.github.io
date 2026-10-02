@@ -28,12 +28,12 @@ a:hover{text-decoration:underline;text-underline-offset:3px}
 .top ul a:hover{color:var(--ink);text-decoration:none}
 
 /* intro */
-.intro{display:grid;grid-template-columns:1fr 168px;gap:40px;align-items:center;padding:64px 0 40px}
+.intro{display:grid;grid-template-columns:220px 1fr;gap:48px;align-items:center;padding:64px 0 40px}
 .intro h1{font-size:34px;line-height:1.15;color:var(--ink);font-weight:700;letter-spacing:-.02em}
 .intro .role{font-family:var(--mono);font-size:13px;color:var(--muted);margin:10px 0 18px}
 .intro p{margin-bottom:12px;max-width:620px}
 .intro p strong{color:var(--ink);font-weight:600}
-.intro img{width:168px;height:168px;border-radius:50%;object-fit:cover;display:block;border:1px solid var(--line)}
+.intro img{order:-1;width:220px;height:220px;border-radius:50%;object-fit:cover;display:block;border:1px solid var(--line)}
 .links-row{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:18px;font-family:var(--mono);font-size:13px}
 .links-row a{color:var(--ink);display:inline-flex;align-items:center;gap:7px}
 .links-row i{color:var(--accent);font-size:14px}
