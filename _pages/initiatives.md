@@ -25,16 +25,16 @@ This interdisciplinary project leverages RAG and LLMs to:
 
 ---
 
-## Data Science Lead — ARISE (Advancing Healthcare AI through Open Science)
+## Data Science Lead, ARISE Network (Advancing Healthcare AI through Open Science)
 
-I serve as a **Data Science Lead** in **ARISE**, an open research network dedicated to advancing the safety, reliability, and real-world evaluation of clinical AI systems through open science.
+I serve as a **Data Science Lead** in the **ARISE Network**, an open research network dedicated to advancing the safety, reliability, and real-world evaluation of clinical AI systems through open science.
 
-Through ARISE, I contribute to:
+Through the ARISE Network, I contribute to:
 - Large-scale, realistic clinical benchmarks for AI evaluation (e.g., **NOHARM / MAST**)
 - Open, reproducible methods for assessing clinical safety and reliability
 - Community-driven research at the intersection of medicine, AI, and policy
 
-<a href="https://www.arise-ai.org/team" target="_blank">🔗 ARISE Team</a><br>
+<a href="https://www.arise-ai.org/team" target="_blank">🔗 ARISE Network Team</a><br>
 <a href="https://bench.arise-ai.org" target="_blank">🔗 MAST / NOHARM Benchmark</a>
 
 
@@ -54,7 +54,7 @@ The AI Index Report is aimed at policymakers, researchers, and the public, and m
 ---
 
   
-## Session Organizer — PSB 2025 & 2026
+## Session Organizer, PSB 2025, 2026 & 2027
 
 I co-organize the session **[AI and Machine Learning in Clinical Medicine](https://psb.stanford.edu/callfor/papers/ai.html)** at the [Pacific Symposium on Biocomputing (PSB)](https://psb.stanford.edu/), a leading venue for interdisciplinary work at the intersection of biology, medicine, and computation.
 
@@ -69,7 +69,7 @@ Our goal is to foster a rigorous scientific community that addresses the practic
 ---
 
 
-## Program Chair — ECML PKDD 2024
+## Program Chair, ECML PKDD 2024
 
 I served on the Program Committee for the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)](https://ecmlpkdd.org/2024/) 2024 Research Track.
 
