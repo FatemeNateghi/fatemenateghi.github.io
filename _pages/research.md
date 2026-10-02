@@ -21,7 +21,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     First, Do NOHARM: Towards Clinically Safe Large Language Models
   </strong><br>
-  David Wu*, <strong>Fateme Nateghi*</strong>, et al.<br>
+  David Wu*, <strong>Fateme Nateghi Haredasht*</strong>, et al.<br>
   <em>arXiv preprint, 2025</em><br>
   <span style="font-size: 14px; color:#666;">*Co-first authors</span><br><br>
 
@@ -67,7 +67,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     SAGE – Specialist AI for Guiding Experts
   </strong><br>
-  <strong>Fateme Nateghi</strong>, Jonathan H. Chen, et al.<br>
+  <strong>Fateme Nateghi Haredasht</strong>, Jonathan H. Chen, et al.<br>
   <em>Ongoing Project</em><br>
   <a href="https://sage.arise-ai.org/" target="_blank">[Live Demo]</a> /
   <a href="https://github.com/HealthRex/CDSS/tree/master/scripts/eConsult">[GitHub]</a><br><br>
@@ -92,7 +92,7 @@ You can also find my full list of papers on
     <strong style="color:#1a3e5f;">
       Automated Evaluation of Large Language Model Response Concordance with Human Specialist Responses on Physician-to-Physician eConsult Cases
     </strong><br>
-    DJH Wu*, <strong>Fateme Nateghi*</strong>, D Wu, V Ravi, LG McCoy, Y Weng, K Chopra, JH Chen<br>
+    DJH Wu*, <strong>Fateme Nateghi Haredasht*</strong>, D Wu, V Ravi, LG McCoy, Y Weng, K Chopra, JH Chen<br>
     <em>medRxiv preprint, 2025</em><br>
     <span style="font-size: 14px; color:#666;">*Equal contribution</span><br>
     <a href="https://www.medrxiv.org/content/10.1101/2025.08.14.25332839v1" target="_blank">[Paper]</a>
@@ -102,7 +102,7 @@ You can also find my full list of papers on
     <strong style="color:#1a3e5f;">
       Asking the Right Questions: Benchmarking Large Language Models in the Development of Clinical Consultation Templates
     </strong><br>
-    LG McCoy*, <strong>Fateme Nateghi*</strong>, K Chopra, D Wu, DJH Wu, A Conteh, JH Chen<br>
+    LG McCoy*, <strong>Fateme Nateghi Haredasht*</strong>, K Chopra, D Wu, DJH Wu, A Conteh, JH Chen<br>
     <em>arXiv preprint, 2025</em><br>
     <span style="font-size: 14px; color:#666;">*Equal contribution</span><br>
     <a href="https://arxiv.org/abs/2508.01159" target="_blank">[arXiv]</a>
@@ -120,7 +120,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Retrieval-Augmented Guardrails for AI-Drafted Patient-Portal Messages: Error Taxonomy Construction and Large-Scale Evaluation
   </strong><br>
-  W. Chen, <strong>Fateme Nateghi</strong>, K.C. Black, F. Grolleau, E. Alsentzer, J.H. Chen, et al.<br>
+  W. Chen, <strong>Fateme Nateghi Haredasht</strong>, K.C. Black, F. Grolleau, E. Alsentzer, J.H. Chen, et al.<br>
   <em>arXiv preprint, 2025</em><br>
   <a href="https://arxiv.org/abs/2509.22565" target="_blank">[arXiv]</a>
 </td>
@@ -137,7 +137,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     A Multi-Site Machine Learning Model for Predicting Treatment Retention in Opioid Use Disorder
   </strong><br>
-  <strong>Fateme Nateghi</strong>, Sajjad Fouladvand, Steven Tate, Min Min Chan, Joannas Jie Lin Yeow, Kira Griffiths, Ivan Lopez, Jeremiah W. Bertz, Adam Miner, Tina Hernandez-Boussard, Chwen-Yuen Angie Chen, Huiqiong Deng, Keith Humphreys, Anna Lembke, Alexander Vance, Jonathan H. Chen<br>
+  <strong>Fateme Nateghi Haredasht</strong>, Sajjad Fouladvand, Steven Tate, Min Min Chan, Joannas Jie Lin Yeow, Kira Griffiths, Ivan Lopez, Jeremiah W. Bertz, Adam Miner, Tina Hernandez-Boussard, Chwen-Yuen Angie Chen, Huiqiong Deng, Keith Humphreys, Anna Lembke, Alexander Vance, Jonathan H. Chen<br>
   <em><strong>Addiction</strong>, 2024</em><br>
   <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/add.16587">[Paper]</a> /
   <a href="https://github.com/HealthRex/CDSS/tree/master/scripts/OUDTreatmentRetentionVSAttrition">[GitHub]</a> /
@@ -155,7 +155,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Predicting Outcomes of Acute Kidney Injury Using Machine Learning
   </strong><br>
-  <strong>Fateme Nateghi</strong>, Liesbeth Viaene, Hans Pottel, Wouter De Corte, Celine Vens<br>
+  <strong>Fateme Nateghi Haredasht</strong>, Liesbeth Viaene, Hans Pottel, Wouter De Corte, Celine Vens<br>
   <em><strong>Scientific Reports</strong>, 2023</em><br>
   <a href="https://www.nature.com/articles/s41598-023-36782-1">[Paper]</a> /
   <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a>
@@ -172,7 +172,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Predicting Survival Outcomes in the Presence of Unlabeled Data
   </strong><br>
-  <strong>Fateme Nateghi</strong>, Celine Vens<br>
+  <strong>Fateme Nateghi Haredasht</strong>, Celine Vens<br>
   <em><strong>Machine Learning</strong>, 2022</em><br>
   <a href="https://link.springer.com/article/10.1007/s10994-022-06257-x">[Paper]</a> /
   <a href="https://github.com/FatemeNateghi/semi-supervised-survival">[GitHub]</a>
@@ -189,7 +189,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Clinical Entity-Augmented Retrieval for Clinical Information Extraction (CLEAR)
   </strong><br>
-  I. Lopez, A. Swaminathan, K. Vedula, S. Narayanan, <strong>Fateme Nateghi</strong><br>
+  I. Lopez, A. Swaminathan, K. Vedula, S. Narayanan, <strong>Fateme Nateghi Haredasht</strong><br>
   <em><strong>npj Digital Medicine</strong>, 2025</em><br>
   <a href="https://www.nature.com/articles/s41746-024-01377-1">[Paper]</a> /
   <a href="https://github.com/FatemeNateghi/clear">[GitHub]</a>
@@ -206,7 +206,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Embedding-Driven Diversity Sampling to Improve Few-Shot Synthetic Data Generation
   </strong><br>
-  I. Lopez, <strong>Fateme Nateghi</strong>, K. Caoili, J.H. Chen, A. Chaudhari<br>
+  I. Lopez, <strong>Fateme Nateghi Haredasht</strong>, K. Caoili, J.H. Chen, A. Chaudhari<br>
   <em>arXiv preprint, 2025</em><br>
   <a href="https://arxiv.org/abs/2501.11199">[arXiv]</a>
 </td>
@@ -222,7 +222,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks
   </strong><br>
-  Suhana Bedi, ..., <strong>Fateme Nateghi</strong>, Jonathan H. Chen, Nigam H. Shah, et al.<br>
+  Suhana Bedi, ..., <strong>Fateme Nateghi Haredasht</strong>, Jonathan H. Chen, Nigam H. Shah, et al.<br>
   <em><strong>arXiv</strong>, 2025</em><br>
   <a href="https://arxiv.org/abs/2505.23802">[Paper]</a> /
   <a href="https://crfm-helm.readthedocs.io/en/latest/medhelm/">[Med-HELM Docs]</a> /
@@ -240,7 +240,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Deconver: A Deconvolutional Network for Medical Image Segmentation
   </strong><br>
-  P. Ashtari, S. Noei, <strong>Fateme Nateghi</strong>, J.H. Chen, G. Jurman, A. Pizurica<br>
+  P. Ashtari, S. Noei, <strong>Fateme Nateghi Haredasht</strong>, J.H. Chen, G. Jurman, A. Pizurica<br>
   <em>arXiv preprint, 2025</em><br>
   <a href="https://arxiv.org/pdf/2504.00302">[arXiv]</a> /
   <a href="https://github.com/FatemeNateghi/deconver">[GitHub]</a>
@@ -257,7 +257,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Quantization-Free Lossy Image Compression Using Integer Matrix Factorization
   </strong><br>
-  P. Ashtari, P. Behmandpoor, <strong>Fateme Nateghi</strong>, J.H. Chen, P. Patrinos<br>
+  P. Ashtari, P. Behmandpoor, <strong>Fateme Nateghi Haredasht</strong>, J.H. Chen, P. Patrinos<br>
   <em>arXiv preprint, 2024</em><br>
   <a href="https://arxiv.org/abs/2408.12691">[arXiv]</a> /
   <a href="https://github.com/FatemeNateghi/lrf">[GitHub]</a>
@@ -274,7 +274,7 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     Supervised Fuzzy Partitioning
   </strong><br>
-  P. Ashtari, <strong>Fateme Nateghi</strong>, H. Beigy<br>
+  P. Ashtari, <strong>Fateme Nateghi Haredasht</strong>, H. Beigy<br>
   <em><strong>Pattern Recognition</strong>, 2020</em><br>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320319303164">[Paper]</a>
 </td>
