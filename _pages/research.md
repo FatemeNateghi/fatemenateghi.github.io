@@ -46,13 +46,15 @@ You can also find my full list of papers on
   <strong style="color:#1a3e5f; font-size: 20px;">
     ARMD-Predict: Multi-Site Machine Learning to Predict Antibiotic Resistance Before Culture Results
   </strong><br>
-  <strong>Fateme Nateghi Haredasht*</strong>, N. Marshall*, Jonathan H. Chen, et al.<br>
-  <em>Under review, 2026</em><br>
+  <strong>Fateme Nateghi Haredasht*</strong>, Nicholas P. Marshall*, ..., Robert Tibshirani, Jonathan H. Chen<br>
+  <em>Preprint, 2026</em><br>
   <span style="font-size: 14px; color:#666;">*Co-first authors</span><br>
-  <a href="https://armd-predict.com" target="_blank">[Live Web App]</a>
-  <!-- TODO: add when ready: <a href="ARXIV_URL" target="_blank">[Paper]</a> / <a href="GITHUB_URL" target="_blank">[GitHub]</a> --><br><br>
+  <a href="https://healthrex.github.io/ARMD-Predict/" target="_blank">[Project Page]</a> /
+  <a href="https://armd-predict.stanford.edu" target="_blank">[Web App]</a> /
+  <a href="https://github.com/HealthRex/ARMD-Predict" target="_blank">[GitHub]</a>
+  <!-- TODO: add when the preprint is live: / <a href="ARXIV_URL" target="_blank">[Paper]</a> --><br><br>
 
-  Machine-learning models that estimate antibiotic resistance from routine EHR and microbiology data before culture results return, developed with data from four U.S. academic medical centers. Available as a public web tool: an Empiric Antibiotic Check that flags when an empiric antibiotic may need an alternative, and a Personalized Antibiogram that predicts the likely organism and its susceptibilities.
+  A patient-specific antibiogram at the moment a culture is ordered: from information recorded before the order, ARMD-Predict estimates the probability that a recovered organism will be susceptible to each candidate antibiotic. The models were trained on 7.4 million culture–antibiotic results from 415,952 culture orders in 241,227 patients at Stanford Health Care, East Carolina University Health, UT Southwestern Medical Center and Mass General Brigham. A secondary hierarchical model predicts the organism and resistance phenotypes aligned with the 2024 IDSA guidance.
 </td>
 </tr></table>
 
